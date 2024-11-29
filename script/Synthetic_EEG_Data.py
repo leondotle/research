@@ -27,10 +27,10 @@ def generate_synthetic_eeg_data(num_entries, output_filename):
         else:
             if beta_power > 1.2:
                 mental_state = "concentrating"
-                note = "Moderate Alpha/Theta ratio (0.6–1.0) with high Beta power (greater than 1.2) indicates concentration."
+                note = "Moderate Alpha/Theta ratio (0.6 – 1.0) with high Beta power (greater than 1.2) indicates concentration."
             else:
                 mental_state = "neutral"
-                note = "Moderate Alpha/Theta ratio (0.6–1.0) with low Beta power (less than or equal to 1.2) suggests a neutral state."
+                note = "Moderate Alpha/Theta ratio (0.6 – 1.0) with low Beta power (less than or equal to 1.2) suggests a neutral state."
 
         # Append the generated data entry to the list
         data.append({
