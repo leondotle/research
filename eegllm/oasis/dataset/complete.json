@@ -1,0 +1,502 @@
+[
+    {
+        "prefix": "Acorns 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Acorns 1.jpg"
+    },
+    {
+        "prefix": "Alcohol 7",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Alcohol 7.jpg"
+    },
+    {
+        "prefix": "Ambulance 1",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Ambulance 1.jpg"
+    },
+    {
+        "prefix": "Angry face 5",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Angry face 5.jpg"
+    },
+    {
+        "prefix": "Archery 1",
+        "suffix": "The picture has a neutral valence and mild arousal.",
+        "image": "Archery 1.jpg"
+    },
+    {
+        "prefix": "Astronaut 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Astronaut 1.jpg"
+    },
+    {
+        "prefix": "Baby 2",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Baby 2.jpg"
+    },
+    {
+        "prefix": "Baby 6",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Baby 6.jpg"
+    },
+    {
+        "prefix": "Bar 3",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Bar 3.jpg"
+    },
+    {
+        "prefix": "Barrels 1",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Barrels 1.jpg"
+    },
+    {
+        "prefix": "Beach 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Beach 1.jpg"
+    },
+    {
+        "prefix": "Beach 2",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Beach 2.jpg"
+    },
+    {
+        "prefix": "Beach 8",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Beach 8.jpg"
+    },
+    {
+        "prefix": "Bird 2",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Bird 2.jpg"
+    },
+    {
+        "prefix": "Bored pose 2",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Bored pose 2.jpg"
+    },
+    {
+        "prefix": "Bottle 1",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Bottle 1.jpg"
+    },
+    {
+        "prefix": "Bungee jumping 1",
+        "suffix": "The picture has a neutral valence and high arousal.",
+        "image": "Bungee jumping 1.jpg"
+    },
+    {
+        "prefix": "Camping 8",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Camping 8.jpg"
+    },
+    {
+        "prefix": "Car accident 4",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Car accident 4.jpg"
+    },
+    {
+        "prefix": "Cardboard 2",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Cardboard 2.jpg"
+    },
+    {
+        "prefix": "Cat 8",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Cat 8.jpg"
+    },
+    {
+        "prefix": "Cemetery 1",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Cemetery 1.jpg"
+    },
+    {
+        "prefix": "Child labor 3",
+        "suffix": "The picture has a neutral valence and mild arousal.",
+        "image": "Child labor 3.jpg"
+    },
+    {
+        "prefix": "Cliff diver 2",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Cliff diver 2.jpg"
+    },
+    {
+        "prefix": "Cold 3",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Cold 3.jpg"
+    },
+    {
+        "prefix": "Cotton swabs 3",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Cotton swabs 3.jpg"
+    },
+    {
+        "prefix": "Couple 9",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Couple 9.jpg"
+    },
+    {
+        "prefix": "Dancing 2",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Dancing 2.jpg"
+    },
+    {
+        "prefix": "Dessert 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Dessert 1.jpg"
+    },
+    {
+        "prefix": "Destruction 1",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Destruction 1.jpg"
+    },
+    {
+        "prefix": "Destruction 2",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Destruction 2.jpg"
+    },
+    {
+        "prefix": "Doctor 3",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Doctor 3.jpg"
+    },
+    {
+        "prefix": "Dog 3",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Dog 3.jpg"
+    },
+    {
+        "prefix": "Dog 6",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Dog 6.jpg"
+    },
+    {
+        "prefix": "Dog 13",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Dog 13.jpg"
+    },
+    {
+        "prefix": "Dog 22",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Dog 22.jpg"
+    },
+    {
+        "prefix": "Dog 31",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Dog 31.jpg"
+    },
+    {
+        "prefix": "Eating 3",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Eating 3.jpg"
+    },
+    {
+        "prefix": "Exercise 1",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Exercise 1.jpg"
+    },
+    {
+        "prefix": "Explosion 5",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Explosion 5.jpg"
+    },
+    {
+        "prefix": "Fire 1",
+        "suffix": "The picture has a neutral valence and high arousal.",
+        "image": "Fire 1.jpg"
+    },
+    {
+        "prefix": "Fire 10",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Fire 10.jpg"
+    },
+    {
+        "prefix": "Fireworks 3",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Fireworks 3.jpg"
+    },
+    {
+        "prefix": "Flowers 2",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Flowers 2.jpg"
+    },
+    {
+        "prefix": "Food 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Food 1.jpg"
+    },
+    {
+        "prefix": "Frustrated pose 2",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Frustrated pose 2.jpg"
+    },
+    {
+        "prefix": "Galaxy 2",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Galaxy 2.jpg"
+    },
+    {
+        "prefix": "Garbage dump 2",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Garbage dump 2.jpg"
+    },
+    {
+        "prefix": "Gazing 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Gazing 1.jpg"
+    },
+    {
+        "prefix": "Gorrila 1",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Gorrila 1.jpg"
+    },
+    {
+        "prefix": "Graveyard 2",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Graveyard 2.jpg"
+    },
+    {
+        "prefix": "Hangover 1",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Hangover 1.jpg"
+    },
+    {
+        "prefix": "Horse 1",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Horse 1.jpg"
+    },
+    {
+        "prefix": "Jail 3",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Jail 3.jpg"
+    },
+    {
+        "prefix": "Lake 2",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Lake 2.jpg"
+    },
+    {
+        "prefix": "Lake 9",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Lake 9.jpg"
+    },
+    {
+        "prefix": "Lake 10",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Lake 10.jpg"
+    },
+    {
+        "prefix": "Lake 12",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Lake 12.jpg"
+    },
+    {
+        "prefix": "Lightning 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Lightning 1.jpg"
+    },
+    {
+        "prefix": "Lion 3",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Lion 3.jpg"
+    },
+    {
+        "prefix": "Miserable face 1",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Miserable face 1.jpg"
+    },
+    {
+        "prefix": "Monkey 3",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Monkey 3.jpg"
+    },
+    {
+        "prefix": "Mother 7",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Mother 7.jpg"
+    },
+    {
+        "prefix": "Nature 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Nature 1.jpg"
+    },
+    {
+        "prefix": "Neutral face 2",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Neutral face 2.jpg"
+    },
+    {
+        "prefix": "Office supplies 1",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Office supplies 1.jpg"
+    },
+    {
+        "prefix": "Opossum 1",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Opossum 1.jpg"
+    },
+    {
+        "prefix": "Paper 1",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Paper 1.jpg"
+    },
+    {
+        "prefix": "Parachuting 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Parachuting 1.jpg"
+    },
+    {
+        "prefix": "Party 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Party 1.jpg"
+    },
+    {
+        "prefix": "Police 1",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Police 1.jpg"
+    },
+    {
+        "prefix": "Rafting 6",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Rafting 6.jpg"
+    },
+    {
+        "prefix": "Rainbow 2",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Rainbow 2.jpg"
+    },
+    {
+        "prefix": "Rock climbing 4",
+        "suffix": "The picture has a neutral valence and high arousal.",
+        "image": "Rock climbing 4.jpg"
+    },
+    {
+        "prefix": "Rollercoaster 2",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Rollercoaster 2.jpg"
+    },
+    {
+        "prefix": "Rubber duck 1",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Rubber duck 1.jpg"
+    },
+    {
+        "prefix": "Sad face 6",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Sad face 6.jpg"
+    },
+    {
+        "prefix": "Sad pose 6",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Sad pose 6.jpg"
+    },
+    {
+        "prefix": "Scared face 3",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Scared face 3.jpg"
+    },
+    {
+        "prefix": "School 5",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "School 5.jpg"
+    },
+    {
+        "prefix": "Shark 4",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Shark 4.jpg"
+    },
+    {
+        "prefix": "Shot 1",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Shot 1.jpg"
+    },
+    {
+        "prefix": "Sidewalk 4",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Sidewalk 4.jpg"
+    },
+    {
+        "prefix": "Siblings 1",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Siblings 1.jpg"
+    },
+    {
+        "prefix": "Skydiving 2",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Skydiving 2.jpg"
+    },
+    {
+        "prefix": "Sleepy pose 4",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Sleepy pose 4.jpg"
+    },
+    {
+        "prefix": "Snow 2",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Snow 2.jpg"
+    },
+    {
+        "prefix": "Soldiers 2",
+        "suffix": "The picture has a neutral valence and mild arousal.",
+        "image": "Soldiers 2.jpg"
+    },
+    {
+        "prefix": "Soup 1",
+        "suffix": "The picture has a positive valence and low arousal.",
+        "image": "Soup 1.jpg"
+    },
+    {
+        "prefix": "Storage 2",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Storage 2.jpg"
+    },
+    {
+        "prefix": "Sunset 1",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Sunset 1.jpg"
+    },
+    {
+        "prefix": "Surgery 4",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Surgery 4.jpg"
+    },
+    {
+        "prefix": "Thunderstorm 3",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Thunderstorm 3.jpg"
+    },
+    {
+        "prefix": "Tornado 1",
+        "suffix": "The picture has a negative valence and high arousal.",
+        "image": "Tornado 1.jpg"
+    },
+    {
+        "prefix": "Traffic 1",
+        "suffix": "The picture has a positive valence and high arousal.",
+        "image": "Traffic 1.jpg"
+    },
+    {
+        "prefix": "Wall 2",
+        "suffix": "The picture has a neutral valence and low arousal.",
+        "image": "Wall 2.jpg"
+    },
+    {
+        "prefix": "Weapon 1",
+        "suffix": "The picture has a negative valence and mild arousal.",
+        "image": "Weapon 1.jpg"
+    },
+    {
+        "prefix": "Wedding 9",
+        "suffix": "The picture has a positive valence and mild arousal.",
+        "image": "Wedding 9.jpg"
+    },
+    {
+        "prefix": "Yoga 5",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Yoga 5.jpg"
+    },
+    {
+        "prefix": "Yarn 1",
+        "suffix": "The picture has a negative valence and low arousal.",
+        "image": "Yarn 1.jpg"
+    }
+]
