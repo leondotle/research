@@ -1,0 +1,633 @@
+--------------------
+Image: oasis/Acorns 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+The image depicts a close-up of two acorns resting in the forest, surrounded by a rustic, natural setting.
+
+The acorns sit side by side, their brown, catlike tops facing upward and their light brown bodies lying flat on the forest floor. To the left of the larger acorn, a yellow-brown leaf has broken in half. A thin branch with a dried leaf lies on the right side of the acorn, with a few brown twigs and leaves in the top-left corner adding depth to the scene.
+
+The background reveals a leafy and moss-covered forest floor. The fallen leaves have mounded and pressed the acorns and twigs into the moss, leaving only their tips exposed, as if the forest floor were slowly swallowing the leaves whole. The moss, light green in color, adds a soft and gentle texture to the scene, creating a sense of tranquility and serenity.
+
+The image is reminiscent of the stillness and quiet of the fall season, evoking feelings of comfort and peacefulness in the viewer. The close-up detail of the acorns and surrounding forest floor allows the viewer to immerse themselves in the natural beauty of the scene.<|eot_id|>
+
+--------------------
+Image: oasis/Alcohol 7.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+As the image unfolds, the visual composition seems to wrap itself around your psyche like a warm, golden embrace. Against the backdrop of a wine rack, softly aglow in a warm amber glow that recalls the golden hour at dusk, a row of empty glass bottles stands guard, their necks neatly capped in dark, matte black caps. Behind the bottles, a small, clear glass bowl lies on the polished wooden countertop, its red wine still suspended inside, awaiting sippers in its translucent bowl, as if anticipating a toast or a solo sip. To the left of the glass, another, larger bottle of wine, similarly capped with black, stands sentry, its own reflective golden surface a promise of rich flavor to come. A few bottles in the middle row also feature a gold and dark label, an extra layer of detail in their rich hues.
+
+On the top row of bottles, a subtle red glow seems to seep through their bottoms, where the glass glows just enough to be seen as they sit in line against the warm, golden background. A glass partition or door divides the counter in the middle, allowing the view from the left to be a reflection of what would have been on the right. In front of the bottles, and to the left and right,
+
+--------------------
+Image: oasis/Ambulance 1.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The black and white photograph depicts a poignant moment in a desolate field, where a soldier is transporting a wounded comrade on a motorcycle with a sidecar, surrounded by an eerie sense of despair.
+
+In the foreground, the soldier is dressed in a uniform shirt and cap, while the injured man is lying on his side with his legs stretched over the back of the sidecar, his feet dangling from the front wheel. The two are bathed in the fading light of day, while in the background, rows of soldiers are gathered around the periphery of a military encampment. Despite the bleak setting, the focus of the image remains on the duo and their predicament. A faint sadness hangs over the photograph like an ombre effect, punctuated by the sound of a distant radio in the background, providing a subtle, haunting ambiance. The overall mood is sombre, as the wounded soldier seems to be suffering, leaving the image with an unforgettable and sad feeling.<|eot_id|>
+
+--------------------
+Image: oasis/Angry face 5.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+This image depicts the somber visage of an individual enveloped in shadows and red lighting, as he stands directly beneath a beam of red light.
+
+His piercing stare, directed forward and slightly left, is accompanied by furrowed brow lines and fur on his lip that form an uneven mustache and beard. His eyes are hooded and appear to have lost their vitality, reflecting a sense of inner sadness. Dark, bushy eyebrows stretch from his nose towards his ears, accentuating the dark shadows that fall across his face from above. He wears a black tunic, which, along with the shadowy backdrop, creates a moody and pensive atmosphere. Overall, his rugged features contribute to a somber and reflective mood.
+
+The striking composition and contrast of shadows and lighting suggest that he might be a character in a dramatic or thought-provoking scene. The darkness that falls behind him creates a mysterious and intriguing background, further emphasizing his isolated and introspective expression. The lighting casts long shadows on his face and the background, underscoring the somberness and isolation of this portrait.<|eot_id|>
+
+--------------------
+Image: oasis/Archery 1.jpg, Valence: neutral, Arousal: mild, Emotion: Peaceful
+The image showcases a serene outdoor setting where a man is engrossed in an activity, as depicted through his focused gaze on the archery equipment that fills the frame from top to bottom.
+
+The man's attire is casual yet functional for the outdoors. He sports a tan camo baseball hat and a red-and-black flannel, and holds the black archery bow vertically across his body with his left hand at the front. Although his face is blurred, it is still easy to see the intense focus in his eyes.
+
+The bow and the man's left hand are the only objects that are in sharp focus. In the blurry background, the top portion of green trees are visible along with a blurry bow string and white, blurred arrow that seems to have just been fired.<|eot_id|>
+
+--------------------
+Image: oasis/Astronaut 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As the astronaut's visor gleams with a warm golden sheen, their gaze pierces the vast expanse of the Earth below, a kaleidoscope of deep blues, whites, and grays set against the ethereal backdrop of the heavens. A wispy layer of cirrocumulus clouds drifts lazily across the horizon, as if carried on a gentle breeze, their delicate feathery tendrils stretching towards the viewer like the fingers of nature itself.
+
+The astronaut's white suit, adorned with a red and blue stripe that runs parallel to the wrist, contrasts vividly with the sleek metallic blackness of the space station in the background. The suit is punctuated by a large white glove, whose black webbing and wrist joint are visible to the side of the image. The visor reflects a patch bearing an American flag, a symbol of the nation that has enabled this remarkable feat of human exploration. The sky beyond the astronaut is a deep, almost electric blue, punctuated by scattered patches of bright white cumulus cloud. As the stars of the heavens begin to twinkle like diamonds in the twilight, it seems that the very fabric of reality itself is unfolding, a canvas of light and shadow painted with a divine touch.<|eot_id|>
+
+--------------------
+Image: oasis/Baby 2.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+This sepia-toned black and white photograph portrays a charming baby with an endearingly introspective gaze. With soft, chubby cheeks and short hair framing his heartwarming expression, this innocent child lies on a comfortable mattress or couch, adorned in a shirt and dark pants, which are slightly rumpled. As he props himself up on his elbows, the soft light emanating from the wall behind him accentuates his tranquil features, and his large, curious eyes reflect a serene expression, imbuing him with a sense of quiet delight. The overall mood of the photograph exudes comfort and peacefulness, evoking a sense of the child’s contented innocence.<|eot_id|>
+
+--------------------
+Image: oasis/Baby 6.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+In this heartwarming image, a peaceful baby is peacefully reclining in a plush brown blanket, exuding an aura of warmth and coziness. The baby's chubby hand, resting on their cheek, conveys an undeniable sense of tranquility, as if their eyes, gently closed, hint at the soothing sweetness of sleep. The baby's plump lips, slightly ajar, form a subtle smile, suggesting that all is right in their little world. The cozy, dark brown blanket cradling the baby provides an intimate atmosphere, infusing the image with a sense of serene comfort.<|eot_id|>
+
+--------------------
+Image: oasis/Bar 3.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+As you gaze upon this photograph, the soft focus of the image whispers a sense of serenity into your soul. Against a warm, brown wooden surface that acts as the canvas for this still life, a selection of bottles stand ready to quench a thirsty palate. With their tops nestled cozily in the shadows, each bottle appears as if it's nestled into its own private sanctuary, surrounded by other bottles. In the foreground, two Absolut vodka bottles rise like sentinels, one adorned in sleek black and the other in frosted white, each sporting their distinctive Swedish "A" and Swedish blue logo, respectively.
+
+From the upper corners of the frame, a chorus of whiskey bottles line the top row of the image, each one boasting its own unique characteristics and personalities.  There's the boldness of a red-labeled bottle, its deep color standing out among the amber hues that stretch beyond, all the way to a whiskey bottle cloaked in blue, adorned with the logo of an unknown, yet undoubtedly distinctive brand. At the far edge of the frame, the lights from an unseen room cast their golden glow through the collection, further amplifying the tranquil aura of the scene.
+
+At the heart of this visual poem are two small bottles perched upon their black wooden
+
+--------------------
+Image: oasis/Barrels 1.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+In this still-life scene, three wooden barrels with metal bands stand in a serene and rustic arrangement, leaning against a wall of weathered stone or concrete blocks. The largest barrel, positioned at the right edge of the image, exhibits a dark brown hue, its wood weathered and worn to a point where it almost appears blackened by the sun. Its two middle bands, once shiny silver, have mellowed over time into a faded hue. Between its top and bottom bands is a strip of wood that is dark, indicating years of use or improper storage. 
+
+The two barrels on the left, positioned slightly further in the image, also appear dark and worn; one has a grey hue, while the other appears black in areas. A fourth barrel rests on the ground in the upper-left corner, its top rim showing; it has a light gray hue and appears to be weathered from age. The concrete or stone wall in the background suggests the barrels are in a place that has seen long use over the years and appears aged by the wear of the elements and time.<|eot_id|>
+
+--------------------
+Image: oasis/Beach 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As the photographer stands on the beach, the image stretches out before us, inviting us to immerse ourselves in a world of natural beauty and serenity. To our left, a majestic palm tree stretches towards the sky, its leaves rustling softly in the breeze. Beneath it, two lounge chairs, each adorned with a cushion in a deep, calming blue, seem to beckon us to rest beneath its shade.
+
+Beyond the palm and chairs, the turquoise sea glistens under the vibrant blue sky. Two more lounge chairs rest on the sand, a second cluster of rocks sits further out on the water, and the sky above is dotted with two white clouds. As the waves gently lap against the shore, the air is filled with a sense of peace. We are transported to a world where time stands still, and the only thing that exists is the soothing rhythm of the water. The image is a haven of tranquility, where the stress of everyday life is left behind and we are free to indulge in the beauty and serenity that nature has to offer.<|eot_id|>
+
+--------------------
+Image: oasis/Beach 2.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+This tranquil seaside scene is illuminated by a vibrant sunset sky, casting an ethereal glow upon the serene water. The sky's gradient palette features wispy clouds tinted in hues of orange, yellow, pink, and blue, as if the sea has been set aflame, yet still retaining a tranquil allure. The darker silhouettes of land and sea seem to dance together in a gentle rhythm. In this idyllic setting, the soothing sounds of the sea, perhaps punctuated by the occasional call of a seagull, fill the air, evoking a feeling of peaceful calm and awe at the majesty of nature.<|eot_id|>
+
+--------------------
+Image: oasis/Beach 8.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image depicts a serene beach scene, where the silhouettes of a palm tree and the setting sun are framed by lush fronds, creating a warm and inviting ambiance. A wooden chair in the foreground hints at a leisurely picnic, while a small sailboat with its sail unfurled glides through the calm water of a body of sea that stretches out to a distant horizon.  Beyond the sailboat, several boats line up, some carrying small groups, adding to the tranquil mood. In the near background, three more wooden chairs stand ready for an afternoon repast, attended to by a lone figure standing between them. The fading sun, low to the horizon, casts a soft orange glow on the water and sky, its rays reflecting off the rippled surface. Clouds are scattered throughout, while the atmosphere is relaxed and peaceful. It is clear that this scene was captured in a tropical location on a warm day, with the silhouettes and the orange color palette evoking a sense of tranquility and contentment.<|eot_id|>
+
+--------------------
+Image: oasis/Bird 2.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image depicts a serene and majestic swan gliding effortlessly across a tranquil body of water.
+
+The swan's impressive white feathers and striking orange beak are prominently displayed, while its wings are spread in mid-flap, creating a sense of gentle power and movement.
+
+The background of the image is characterized by a lush grassy bank that rises up from the water, adding to the overall sense of serenity and calm.
+
+A solitary ripple in the water on the far left suggests the swan has been here before. It is an idyllic scene, evoking a sense of peace and wonder.<|eot_id|>
+
+--------------------
+Image: oasis/Bored pose 2.jpg, Valence: negative, Arousal: low, Emotion: Bored
+The image captures a contemplative moment, where an elderly man sits in stillness, his eyes half-closed and his right hand cupped beneath his chin. His countenance reflects the weight of years and perhaps the monotony of a life lived; the lines that etch his forehead tell a story of struggles and small triumphs, yet they also hint at a deeper sense of unease or frustration. In his eyes, a mixture of melancholy and a hint of yearning may reside, an ache for something intangible or an unfulfilled longing. His shirt, a soft light blue hue, contrasts against the darkness of the surrounding, giving an impression of solemnity and contemplative isolation.
+
+A dark grey zippered jacket lies on him, like a protective cloak, further enhancing the melancholic and somber mood of the scene. It seems the man, likely retired, reflects on past times in silence, or perhaps he finds it difficult to connect with his younger counterparts and remains disconnected and somewhat sad. His right hand cradles his chin in a relaxed position, possibly out of a desire to escape the burdensome weight of the world, to disassociate himself from reality in a gentle form of self-defense. His gaze may hint at memories of happier times and now this
+
+--------------------
+Image: oasis/Bottle 1.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+In the serenity of a sun-drenched white floor, three water bottles are arranged in a tranquil pose. The image's perspective looks directly down upon their blue plastic lids, which gleam with a faint sheen of condensation, while the surrounding bottles appear to rest upon them, almost in a state of repose. The plastic lids, in a royal blue hue, add a pop of color, standing out in stark contrast to the crystal-clear water that lies within the bottles.
+
+In the background, a shadow stretches outward, evoking the illusion of a wall in the distance. Above, sunlight pours down on the scene, creating a dazzling display of refractions in the air. The overall ambiance of this photograph exudes tranquility, transporting the viewer into a tranquil sanctuary where the air is crisp and the light is soft.<|eot_id|>
+
+--------------------
+Image: oasis/Bungee jumping 1.jpg, Valence: neutral, Arousal: high, Emotion: Alert
+The image captures a bungee jumper suspended in mid-air above a river and rocky cliffside. At its center, a person clad in dark pants, white long-sleeved shirt with rolled-up sleeves, a harness with a black shoulder strap, and an additional harness on their chest with an orange buckle, extends both arms out from their body. One hand grasps a bungee cord, while the other appears to be in mid-air, creating an impression as though the bungee jumper has just launched from a structure above. The dark, fast-moving river to their left and the gray and light-brown rocky terrain in the background provide a dramatic contrast. Along the riverbank, the light and dark-green foliage adds a pop of color. The bungee jumper's long shadows are cast behind them, suggesting they were captured under direct sunlight. On the left, a dark gray structure with a curved white tube and some windows is partially visible, but the background remains largely out of frame.
+
+In this image, the bungee jumper stands out starkly against the rocky surroundings, creating a powerful impression as their long shadow stretches out across the landscape behind them.<|eot_id|>
+
+--------------------
+Image: oasis/Camping 8.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The scene depicted in this photograph is a poignant and somber one, set amidst a row of beige tents and a small collection of vibrant, discarded clothing. Three small, dark-skinned boys walk together down the dirt path, their clothing consisting of long shirts worn over lighter bottoms, and headwear that evokes a sense of simplicity and tradition. As the boys' bright garments blend seamlessly into their surroundings, the focus shifts to the array of discarded clothes that have been left behind, adding a layer of melancholy to the otherwise tranquil scene.
+
+A barbed-wire fence runs across the dirt, with various colored cloths caught in its mesh. Each piece of clothing holds the potential to tell a story, evoking feelings of hope, comfort, or resilience. Yet, their current state on the fence conveys a sense of abandonment and disregard. The presence of clothes strewn around, with no one in sight to claim them, creates a powerful impression, resonating with the feeling of sorrow.
+
+As we gaze upon this scene, it is impossible not to feel a sense of empathy for the boys and the people who may have once used the clothes on display. Their simple, traditional clothing offers a glimpse into a community that has faced hardship and uncertainty. It serves as a stark reminder
+
+--------------------
+Image: oasis/Car accident 4.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The scene unfolds as a desolate landscape of destruction and despair, the once sleek black car now a twisted testament to the devastating power of nature's fury. The driver-side door, shattered beyond recognition, hangs limply, the gaping hole like an open mouth in a silent scream of pain. The windshield, once a clear and inviting portal to the driver's world, is now a shattered and jagged barrier to the road ahead, its remains a twisted puzzle of safety glass, like a cruel and unforgiving riddle with no answers to ease the anguish. The car's battered hood bears the scars of impact, a dark and mangled patchwork of metal that seems to tell the story of a life forever changed in a split-second, where the sound of crunching steel, shattering glass, and screeching tires is the only narrative, a hauntingly beautiful requiem for the innocence that was lost in the moment the wheel spun off its track.<|eot_id|>
+
+--------------------
+Image: oasis/Cardboard 2.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+The image presents a tranquil, textured surface in close-up, showcasing a subtle wooden grain that stretches from edge to edge and beyond. The close framing of the image allows the viewer to see the slight ridges that make up the wood's structure, and even the spaces in-between, where it appears to be layered upon itself. The surface's horizontal alignment invites the eye to travel across the image, tracing the natural wood's subtle contours and color variations. The visual texture of this image invites you to imagine running your fingers over its surface, feeling the ridges, and immersing yourself in the serene moment of the scene. The soft colors of the photo evoke a peaceful feeling that comes with appreciating the gentle, repeating patterns of nature. The soft lighting brings to the fore the natural, weathered textures of the image, creating an almost dreamy effect. A gentle warmth is suggested by the diffuse light, and the photograph's close perspective brings the viewer very near the surface, creating the sense that you are in the scene, enveloped by the natural texture and inviting, tranquil atmosphere it presents.<|eot_id|>
+
+--------------------
+Image: oasis/Cat 8.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image depicts a black cat's face, gazing directly at the viewer with piercing eyes. The cat's eyes are a striking golden-brown color and seem to radiate an air of curiosity and alertness. The overall image is presented in a close-up format, focusing attention on the cat's captivating eyes and facial features.<|eot_id|>
+
+--------------------
+Image: oasis/Cemetery 1.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+In this somber image, the silhouette of a seaside cemetery at dusk is illuminated against the backdrop of an orange and yellow sunset, which reflects off the water and pierces through the gray clouds. At the center, three crosses stand tall on an unassuming gravestone, casting shadows on either side. The dark foreground is punctuated by silhouettes of trees, a building, and a rocky coastline. The overall atmosphere is a serene yet haunting combination of grief, respect, and reverence, evoked by the presence of the gravesite at sunset, a time typically associated with renewal, hope and light. The darkness around the cemetery acts as an equalizing force to the light of the sunset.<|eot_id|>
+
+--------------------
+Image: oasis/Child labor 3.jpg, Valence: neutral, Arousal: mild, Emotion: Peaceful
+In this vintage black and white photograph, a group of children stands in an office building, their faces solemn yet expressive. Dressed in dark winter clothing, they hold newspapers aloft, with most sporting the distinctive logo "The Morning Telegraph," indicating they have gathered around a newspaper vending machine. To the left of the group, a large poster touting "TOPICS EVERYWHERE" dominates the wall. The newspaper clippings strewn around them evoke a bygone era.
+
+The image, likely captured in the late 1800s, captures a moment of tranquility in the heart of the city. In the midst of chaos and activity, a moment of calm descends as these boys pause, newspaper in hand, to catch the day's headlines. The worn paper, creases and tears abound, suggests they were printed for the morning paper, to be discarded at the day's end.
+
+The image brings forth feelings of peace and nostalgia. One imagines that as the morning rush subsides, these boys pause, their eyes widening with excitement, as they read of the world's news. The newspaper serves as a window into the outside world, a portal to the wonders and worries of their growing up years. In their moment of calm, we witness an age of wonder,
+
+--------------------
+Image: oasis/Cliff diver 2.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The photograph captures the joy of a moment in time, as a person leaps off a concrete platform over deep blue waters. With a wide grin, the person dives headfirst towards the water with arms and legs outstretched. Their hair and swimsuit are a darker color than the platform, drawing the viewer's attention. The water around them appears calm but choppy, rippling gently in the wind. To the right, a white boat can be seen sailing along the water on the right-hand horizon, further emphasizing the feeling of relaxation and leisure that exudes this image. The bright sky above completes a sense of cheerfulness, making this image of a joyful swimmer perfect for the cover of a magazine.<|eot_id|>
+
+--------------------
+Image: oasis/Cold 3.jpg, Valence: positive, Arousal: low, Emotion: Content
+In the snowy expanse, a leaf cluster stands out as an arresting figure, reminiscent of a group of birds huddled together for warmth. The arrangement, comprised of two large brown leaves and two smaller ones, forms an equilateral triangle, with the largest leaf situated at the bottom.
+
+Each leaf features a unique shape, with the larger one having a tail-like projection extending towards the top-right. The larger leaves are dusted with a layer of snow that has settled on top of them, giving the appearance of a gentle, even coating.
+
+The surrounding snowfield stretches out in an uneven blanket, with some areas appearing denser and whiter than others. The background of the image is a vast, snow-dusted expanse, which is interrupted by the leaves' silhouettes near the top and bottom. The scene's serene and peaceful atmosphere, evoked by the winter snow, provides a tranquil and inviting ambiance.<|eot_id|>
+
+--------------------
+Image: oasis/Cotton swabs 3.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+As we gaze into the image, a sense of serenity washes over us, as if time itself has slowed to a gentle purr. We find ourselves entranced by a small, transparent cylindrical container, half-filled with cotton buds that have been delicately stacked on top of each other, their tapered tips pointing heavenward. Softly colored orange, blue, and green cotton swabs, just visible on the bottom two or three layers, hint at the colors of a tranquil sunset or a soft, muted sky, a calming balm that seeps through our souls, soothed and eased by the quietness and order of the image. 
+
+As our eyes trace the contours of the clear cylindrical container, they light on the slightly indented circular ribs running around it, reminiscent of a shallow lid. These, too, serve to bring a sense of calm, as their slight elevation adds an air of simplicity, while at the same time, a soft glint reflects light on the container, imbuing the whole with a subtle allure that draws us deeper.
+
+The background of the image is a textured, soft white, which has a warm, comforting feel and an almost quilt-like appearance, punctuated by a very shallow, soft, beige shadow in the lower right-hand corner
+
+--------------------
+Image: oasis/Couple 9.jpg, Valence: positive, Arousal: low, Emotion: Content
+In this serene image, an elderly couple sits together on a bench, their backs to the viewer, in a beautifully landscaped garden. The woman holds a bouquet of red and green flowers, while the man, dressed in a brown suit jacket, gently wraps his arm around her, creating a sense of warmth and companionship.
+
+Beyond the bench, a stunning mansion, bathed in the soft light of a sunny day, stands majestically in the distance. The expansive garden stretches out before it, filled with vibrant trees and colorful flowers, evoking a sense of peace and contentment. The overall atmosphere of the scene exudes tranquility, warmth, and a deep affection between the couple, set against a backdrop of natural beauty that perfectly complements the joy of their moment together.<|eot_id|>
+
+--------------------
+Image: oasis/Dancing 2.jpg, Valence: positive, Arousal: low, Emotion: Content
+This image captures the graceful elegance of ballet dancers in motion, with one soloist at the center. A ballerina wears a soft pink tutu and pointe shoes, her slender body poised with her back foot resting on her toe and her arms outstretched. The backdrop is a mirror, reflecting her and the three other ballet dancers dancing on stage, creating a sense of symmetry and movement.
+
+Against a stark black background, the dancers are set against a stark backdrop of light blue silhouettes. The image conveys the dancer's precision, fluidity, and the atmosphere of an elegant performance.<|eot_id|>
+
+--------------------
+Image: oasis/Dessert 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+This image presents a two-tiered white wedding cake with a square bottom layer and a smaller rectangular top layer, featuring a design of lilac polka dots on the bottom tier. The top of the cake is adorned with a wreath-like arrangement of six lilac-colored roses, slightly darker than the dots on the cake, resting in a nest-like formation. The cake is topped with a white piece of wax that appears to have been removed from the cake before it was photographed. A layer of cake board is visible under the cake, and in the bottom-right corner of the photo, the glint of a camera lens or the surface on which the cake is placed can be seen.
+
+The overall background of the image is black, providing a stark contrast to the cake's elegant design, as if it was taken against a backdrop or on a black table. The lighting of the photo is such that the cake is well-lit, while the dark background effectively draws attention to the cake's delicate details.<|eot_id|>
+
+--------------------
+Image: oasis/Destruction 1.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+This photograph presents an aerial view of a devastated cityscape, evoking feelings of frustration and hopelessness. Amid the rubble of a collapsed skyscraper lies a scattering of American and international flags, a poignant yet hollow symbol of national unity and solidarity in the face of catastrophe. In the foreground, two metal support beams form a V-shaped boundary around an area littered with broken concrete and bricks, while a long crane, partially obscured on the left, adds to the sense of destruction. Beyond the immediate devastation, the skyline of the city rises, with three cranes towering in the distance, casting long shadows in the afternoon sunlight. The sky above is a deep grey, with clouds drifting across the horizon, casting a somber mood over the scene.
+
+The composition of the image draws the viewer's gaze to the crumbled building's rubble-strewn floor, and it is easy to see why many of us have feelings of frustration and anger. We see the destruction of a once-healthy community and our collective loss of safety. Frustration stems from this image because it's not hard to imagine ourselves in the midst of this disaster. The image of an American and Chinese flag, side by side, as a show of solidarity, serves as a bitter reminder that no amount of unity
+
+--------------------
+Image: oasis/Destruction 2.jpg, Valence: negative, Arousal: low, Emotion: Bored
+This image presents a breathtaking aerial view of a city, its streets awash with a kaleidoscope of colors and textures. In the foreground, a patchwork of dirt, wood, and metal fills the frame, punctuated by the towering concrete columns of a historic building that dominate the background. At center stage, an imposing American flag waves proudly against the backdrop of a smaller, beige structure, its roof a crumpled mess and its facade scarred and blackened.
+
+To the left, a diverse assortment of buildings unfolds, some boasting sleek, modern facades, while others appear to be older, with an industrial tone. In the bottom-right, the rooftops of a variety of smaller buildings stretch out, each with its unique texture and hue. Scattered among these, small groups of people, some clad in white uniforms and others in more casual attire, can be seen going about their daily lives amidst the sprawling construction site. 
+
+The overall scene, captured from an elevated vantage point, presents a sense of vitality and activity, as the city goes about its business beneath a radiant, almost cloudless blue sky. As a result, the atmosphere exudes an underlying sense of peacefulness and tranquility, a world away from the monotony of boredom.<|eot_id|>
+
+--------------------
+Image: oasis/Doctor 3.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+In the softly illuminated room, a woman in the midst of scientific work exudes a sense of calm. She gazes intently downward, her blonde hair gathered in a long ponytail at her right side, as she holds a clear tube in her gloved right hand. A blue surgical mask adorns her chin, secured under the rim of her safety goggles, which sit atop her brow. A white button adorns the diamond of her pearl earring, and she wears a crisp white coat that suggests her professional demeanor. The blurred white tubing on the rack at her left side is in stark contrast to her sharp focus, yet her calm composure invites a peaceful sense of serenity. The window behind her is softly out of focus, its bright blue hues visible through the sheer curtains, softening the scientific atmosphere. The softness and lack of direct sunlight on the face of the lab technician in this image implies that the photo may have been taken with a studio strobe, creating an intimate environment. Overall, this photograph exudes a serene yet focused attitude, inviting the observer to join in a scientific endeavour, and creating an atmosphere of calm contemplation.<|eot_id|>
+
+--------------------
+Image: oasis/Dog 3.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image depicts a joyful German shepherd dog sitting in a lush grassy area. The dog, facing to the right with its ears perked up and a distinctive black nose, exudes happiness. Its brown coat features a striking white belly and distinctive dark stripes along the back. The background reveals the tree-lined horizon in the distance, while the grass beneath the dog's paws is a vibrant green. The overall atmosphere evokes a sunny day in a park, with the dog likely having just completed a play session. The image's serene quality is palpable.<|eot_id|>
+
+--------------------
+Image: oasis/Dog 6.jpg, Valence: positive, Arousal: high, Emotion: Excited
+In this image, a small black and brown puppy with white markings is prominently seated inside a large flowerpot. The flowerpot boasts red polka dots on an off-white base, while the puppy appears to be peeking out at the camera with its tiny pink tongue slightly visible. With a blurred background, the image seems to have been captured outdoors, on a green grassy surface, with a white picket fence and a round white tray partially visible in the distance.<|eot_id|>
+
+
+--------------------
+Image: oasis/Dog 13.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+Upon first glance, you feel an immediate and palpable sense of cheerfulness emanating from the scene, as if the joyful mood has seeped into the very air around it. A dog's face takes center stage, with its wide-open mouth, black nose, and small teeth gleaming, giving it an endearing expression. Its large dark eyes seem to hold an unmistakable spark of amusement and playfulness. As it tilts its head to the left, a shadow appears over one eye, accentuating the lively animation in its posture. In contrast to the foreground of the photo, where the dog is clearly in focus, the right edge of another dog can be discerned, but is intentionally blurred in the background, which is rendered in muted shades of red-brown and green. The presence of what appears to be red clay suggests that the scene was captured on a particularly rugged terrain. However, the dog's carefree attitude and the sense of levity in the photo's atmosphere imbue the location with an almost whimsical charm. Overall, it's as though the very essence of happiness radiates out from the scene like an aura.<|eot_id|>
+
+--------------------
+Image: oasis/Dog 22.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+In this serene image, a medium-sized tan dog reclines on the ground, its head gently resting on the earth. The animal's large floppy ears are positioned to the side of its head, framing its face as it gazing slightly downward. Its nose and eyes are black, adding a touch of contrast to its warm fur, which is partially cropped by the image's right and bottom edges. A black collar encircles its neck, and its left paw is tucked underneath its chest. The background suggests a grassy area, and the image appears to have been captured outdoors. The overall mood is peaceful and quiet, evoking the feeling that this animal is taking a well-deserved rest in the shade of nature's warmth.<|eot_id|>
+
+--------------------
+Image: oasis/Dog 31.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+Through the worn metal bars of the kennel door, a gaze of deep longing and yearning peers out. The light-brown dog, a canine caught in a cycle of confinement and neglect, leans its head against the metal grate, a look of dejection and hopelessness etched upon its face. Its ears, long and floppy, are pushed back, while the paws, covered in a thick coat of brown mud, press against the grate as if grasping for a lifeline.
+
+The kennel, a concrete box with a metal roof, is an industrial-looking space with green paint and rusty, crumbling surfaces, the once-bright paint now chipped away in places. Through the kennel, a doorway in the back is visible, leading out to what might be a garden or the street beyond.
+
+The dog’s face is wet and dirty, with streaks of brown mud along the edges, telling of a recent dip into a water trough. Despite the overall grim scene, one glimpse through the kennel suggests a spark of hope. There is a large patch of bright, verdant grass beyond the kennel and the doorway, illuminating the small corner of a street behind the kennel and signaling a small bit of possibility beyond the kennel door. The scene
+
+--------------------
+Image: oasis/Eating 3.jpg, Valence: positive, Arousal: low, Emotion: Content
+The image depicts a close-up of a boy intently consuming a juicy red cherry. In the foreground, the boy's face is the main focus, showcasing his fair skin and short, dark brown hair. He wears a light blue shirt and a dark green jacket, which adds a pop of color to the scene.
+
+A hand emerges from the bottom left corner of the image, extending towards the boy, presumably holding the stem of the cherry, while his mouth opens, and a red cherry is captured in mid-bite.
+
+The background, though blurred, suggests a kitchen or dining room, providing context for the scene. The overall setting is warm, with soft yellow lighting on the right and a white wall on the left. The atmosphere feels serene, as if captured during a pause in the action.<|eot_id|>
+
+--------------------
+Image: oasis/Exercise 1.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The scene before us is a harmonious convergence of human dedication and the natural world's serenity, unfolding against a backdrop of lush green grass. At the heart of this image, a man in a grey t-shirt is fully immersed in the art of yoga, with his body stretched in a low push-up position. His arms, elbows slightly bent, rest on the ground, while his palms remain firmly planted, allowing his upper torso to descend, parallel to the earth. Notably, a bracelet adorns one of his wrists, adding a subtle detail to his attire. A grey dog, curled up and asleep, lies close behind him, its proximity underscoring the tranquil ambiance of the setting.
+
+In the background, trees, buildings, and a cloudy sky form a blurred yet vibrant tapestry, hinting at the man's connection with the world beyond. This setting suggests an outdoor area, perhaps a park, where the serenity of the environment and the tranquility of the dog, slumbering at the man's feet, blend perfectly to convey a sense of well-being and balance.<|eot_id|>
+
+--------------------
+Image: oasis/Explosion 5.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+The photograph depicts the Castle Bravo test, an underground nuclear test that occurred in the Pacific Ocean on March 1, 1954. The mushroom cloud rises dramatically above the shallow lagoon of the Pacific Ocean, dwarfing the distant vessels, making the islands of the Marshall Islands and a military tug appear to be barely discernible in the foreground. A line of ships in the water near the horizon provide a stark contrast to the power of nature.
+
+In the foreground, a beach stands deserted with only a few scattered palm trees, giving a sense of a small human presence against an enormous and powerful backdrop. The horizon appears to curve behind the boats, suggesting a vast emptiness.
+
+The grey and overcast sky heightens the tension. The monochrome color palette and the contrast between the man-made objects and the nuclear explosion create a sombre, haunting, and sobering atmosphere. There's something deeply unsettling about the scale of the power depicted, and the photograph demands the viewer's attention.
+
+As we gaze at the photo, the scale, destruction and power are conveyed vividly, even without the need for words or context. We feel the deep frustration that this photograph conveys with a single glimpse.<|eot_id|>
+
+--------------------
+Image: oasis/Fire 1.jpg, Valence: neutral, Arousal: high, Emotion: Alert
+This photograph captures a captivating performance of fire breathing by a dark figure. At the center of the frame, the individual stands facing right, illuminated from the shadows on their left side and from a light source coming from behind. Clad in a red headwrap and sporting a large, curved necklace adorned with an unknown shiny object, he breathes out a colossal flame of light, its vibrant yellow-orange hue reflecting off his face. The flame stretches in a long, straight line, beginning to curl at the edge towards the top of the image.
+
+Against a stark black backdrop, this photograph transports us to a night-time spectacle, suggesting a vibrant setting such as a festival or event. The atmosphere is electric with energy, and we find ourselves mesmerized by the scene.
+
+This photograph conveys a powerful sense of energy, showcasing the performer's focus and control, and their audience is immediately drawn into the performance, enthralled by the fire breathing and the intensity of the experience.<|eot_id|>
+
+--------------------
+Image: oasis/Fire 10.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+As the branches twist and writhe, they seem to scream with futile abandon. Twisted and knotted, like lifeless twigs in an unseen arachnid embrace, they are starkly illuminated against the roiling clouds of fiery embers, but their forms remain impenetrably shrouded in darkness. Their black and twisted limbs seem to yearn towards the light, and yet they remain bereft, still. As the flames writhe and seethe around them, they appear as the hollowed-out husks of once-thriving limbs, now scorched by the all-consuming power of the burning blaze.<|eot_id|>
+
+--------------------
+Image: oasis/Fireworks 3.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As the night unfolds like a canvas of wonder, the sky transforms into a kaleidoscope of color and light, with a dazzling display of fireworks lighting up the darkness. Against a backdrop of a bustling city skyline, where towering skyscrapers pierce the heavens like shards of glass, the fireworks burst forth in all their glory - exploding in every hue of the rainbow, from the deep reds of passionate desire, through the electric blues that crackle with energy, to the golds that shimmer like the sun on a summer's day. The air is filled with their rumbling thunder, a symphony that pulses in rhythm with the hearts of those who gaze upon the spectacle in rapt delight. Reflections on the water below cast dancing lights upon the faces of the onlookers, their eyes aglow with excitement, their smiles mirrored in the smiles of the fireworks themselves. As the finale builds to a crescendo of explosive beauty, the very atmosphere seems alive, filled with the joy and exuberance of a thousand celebrations, each one a spark of collective happiness. And as the last embers fade into the night, the heart remains alight with the memory of a magic that, once seen, can never be forgotten.<|eot_id|>
+
+--------------------
+Image: oasis/Flowers 2.jpg, Valence: positive, Arousal: low, Emotion: Content
+In this captivating close-up image, a beautiful bouquet of vibrant pink and orange flowers takes center stage against a dramatic black background, inviting us to gaze at its intricate beauty.
+
+At the forefront, two prominent orange flowers, resembling a mix of a Gerbera and a chrysanthemum, capture our attention with their intricate centers and long petals, subtly fading from dark orange to pale pink towards the edges. To the right and left of the foreground flowers, a few small buds suggest that new blossoms will soon emerge. A bright pink rose appears in the center right, while its green stem stretches across the lower right, slightly obscured by the bouquet.
+
+The bouquet itself is adorned with lush, green leaves and smaller light and dark pink flowers, while additional buds and vibrant, dark pink and light orange blossoms complete the arrangement. The striking contrast between the black background and the flowers creates a visually appealing and engaging visual experience.
+
+Through this photograph, one can't help but appreciate the beauty and intricate details of nature, with the bouquet's vibrant colors and shapes captivating our attention.<|eot_id|>
+
+--------------------
+Image: oasis/Food 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+The image presents a close-up of a bowl of pasta soup, inviting the viewer to savor its warmth. The bowl, likely made of white ceramic, partially occupies the frame from the top left and center of the photo to the right, and along the bottom of the image. The creamy colored penne pasta fills most of the image, swimming in a dark brown broth and paired with red and yellow cherry tomatoes. Along the upper and right sides, there are also green olives. At the bottom right, a portion of silverware is partially visible.
+
+The overall mood and atmosphere of the image suggest a warm and inviting meal, perhaps served in a cafeteria or dining hall. The plain and unadorned white bowl creates a sense of simplicity, while the steamy and steam-covered tomatoes adds a sense of depth and warmth.
+
+The close-up view of the food in the bowl makes it difficult for the viewer to distinguish between the ingredients or the color of the bowl. The image gives the impression that the photograph was taken at night or early morning, with the light falling on the subject from the right side. Overall, the image has an atmosphere that is both calming and welcoming.<|eot_id|>
+
+--------------------
+Image: oasis/Frustrated pose 2.jpg, Valence: negative, Arousal: low, Emotion: Bored
+As your gaze lingers on the man’s image, you’re immediately struck by the way he clings to a pillow, a gesture both desperate and endearing. His eyes are shrouded in darkness, concealing the emotions that well up inside of him, yet the subtle rise of his shoulders and the soft jut of his jawline speak volumes about the turmoil that brews within. The man's hands rest atop his head, his fingers intertwined in a fragile knot, as he strives to hold fast to a moment of respite amidst the cacophony of emotions. He wears a somber, deep blue shirt that seems to absorb the faint light surrounding him, drawing the eye like a magnet to a heart that aches with loneliness and sorrow. Every detail of the photograph hints at an intimate struggle, and it's impossible to look away.
+
+The image’s grayscale palette, combined with the shadows cast upon it, imbues the atmosphere with an air of quiet intensity. As you drink in this poignant scene, a sense of melancholic calm washes over you, as if the man's plight has become your own. It’s a testament to the artist's skill that even in their absence, you can almost feel the man's weighty silence, as if the act
+
+--------------------
+Image: oasis/Galaxy 2.jpg, Valence: positive, Arousal: high, Emotion: Excited
+In this image, a celestial tapestry unfurls, a mesmerizing galaxy swirling with a kaleidoscope of stars and nebulae against an inky, black backdrop. A vibrant purple nebula, like a nebulous brush stroke, dominates the scene, its luminescent center pulsing with an otherworldly light. As if the cosmos itself has been plucked from an artist's palette, this nebula is tinged with hues of indigo and deep blue, creating an atmosphere of serenity and wonder.
+
+Amid this celestial dance, numerous other stars twinkle and sparkle like a constellation of precious jewels. Some, glowing in shades of light yellow and white, are positioned as if they're being birthed, while others seem to be exploding into the surrounding expanse. As your eyes wander across this cosmic canvas, you can't help but feel small yet connected to the infinite, the universe's sheer magnitude stirring your soul and invigorating your sense of possibility. Like a child at their first snowflake, or an explorer laying eyes on a distant frontier, your heart beats faster with every step through this galaxy, a space so awe-inspiring it feels like a gateway to a magical realm, hidden just beyond the reaches of Earthly boundaries.<|eot_id|>
+
+--------------------
+Image: oasis/Garbage dump 2.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The image depicts a desolate landscape marred by pollution, with a vast expanse of trash littering the ground. The foreground is strewn with empty plastic bottles, their once-clear surfaces now opaque with the grime of neglect, casting a melancholic hue over the scene. As the eyes wander, shards of glass sparkle in the light, remnants of broken objects that once held promise, but now serve only as a poignant reminder of the devastating impact of human carelessness. The sea of discarded plastic bottles stretches out before us, a stark testament to humanity's heedlessness in its wake.
+
+The once-lush grass in the foreground now withers and decays, a grim reflection of the damage inflicted by the relentless tide of pollution. In the distance, the calm surface of the water ripples in an otherwise serene manner, a stark contrast to the devastation unfolding before it. As the eye wanders outward, it beholds the shore, barren and desolate, devoid of the life-giving forces that once inhabited this place.
+
+The atmosphere is thick with a sense of forlornness, as though the very land itself is mourning the loss of its beauty. The silence is heavy with the weight of human responsibility, a haunting reminder that our actions have a lasting impact on the
+
+--------------------
+Image: oasis/Gazing 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+In this captivating image, a woman sits on a rocky outcropping, her back to the camera as she gazes into the distance. The warm sunlight casts a golden glow on the tops of the hills, but leaves the foreground in darkness, suggesting early morning or late afternoon.
+
+The woman's dark silhouette is accented by the sun's light, while her hair shimmers in a darker red hue. The landscape behind her stretches out into a misty, hazy blur. The outcropping seems to be her only source of elevation, providing a sense of vantage point from which to take in the breathtaking vista. In this serene moment, it feels like the woman is fully absorbed in the experience of being outdoors, at one with the natural beauty that surrounds her.<|eot_id|>
+
+--------------------
+Image: oasis/Gorrila 1.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+As I gaze upon this image, my eyes fall upon the somber figure of a gorilla sitting in the lush grass, its demeanor exuding a profound sense of sadness. The rugged lines of its face seem etched with the weight of unspoken sorrows, its large, expressive eyes welling up with tears as it looks into the distance, a mournful expression etched upon its furry brow. A lone strand of straw dangles from its mouth, like the last lingering reminder of a fleeting pleasure. The gentle slope of the grassy hill in the background, interspersed with tree trunks, provides a subtle yet poignant backdrop, while a distant building stands as a melancholy sentinel, a haunting symbol of human endeavors, the very thing the gorilla may mourn as it contemplates the fleeting nature of all existence. The image holds a profound poignancy, as though it speaks of a great heartache, the gorilla a noble symbol of a species struggling to endure in the face of the ever-shifting tides of life, a poignant testament to the commonalities that exist between us all.<|eot_id|>
+
+--------------------
+Image: oasis/Graveyard 2.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+As the sun dips low over the rolling hills, it casts its golden hue over an ancient cemetery, where the crumbling headstones stand sentinel amidst the rustle of trees. Each monument wears a story of life and loss, as the winds whisper secrets of generations past in a gentle melancholy lullaby. Some graves are crowned with the weathered lids of old, their corners crumbling to the earth like tiny steps towards oblivion. While others still wear the mosses of their birthright, some lie supine, broken, their inscriptions long erased, others bearing the faint lines that once held the names of the beloved and the forgotten, leaving behind but a trace of remembrance of the ones who slumbered beneath the soil, their voices forever silenced. Despite the passage of time and the erasures of the memories, these graves stand like markers, a reminder of the futility of the passage of time, its ravages on human beings, and our inability to stop it.<|eot_id|>
+
+--------------------
+Image: oasis/Hangover 1.jpg, Valence: negative, Arousal: low, Emotion: Bored
+The image depicts a man lying on his stomach on top of a wooden table or bench, with his head resting on his arms and his body propped against the surface. His head is turned to the right, obscuring his face, while his left hand hangs limply off the edge, palm-up, and his fingers splay slightly outward, as if reaching for an invisible object. A clear glass liquor bottle stands upright on the table in the background, the label missing, but a pink square and partially illegible words hint at its brand. The man's white dress shirt appears wrinkled, and a line of black lies next to him, possibly a chain, against a blurred white wall behind. His posture suggests boredom and exhaustion.<|eot_id|>
+
+--------------------
+Image: oasis/Horse 1.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image unfolds on a sun-dappled field, where a foal and an adult horse stand in tender companionship. The adult horse, with a rich chestnut coat and a silver mane, stands slightly to the right, its ears pricked up as it gazes down at the foal. In contrast, the foal, sporting a tan coat with a distinctive white blaze on its face, looks up with curiosity, its front left leg in profile. The foal's coat features a lighter hue on its legs and underside. Its head is adorned with a bridle and brown leather reins, while a black halter and a matching leather strap are draped around the adult horse's neck.
+
+The serene field provides a picturesque backdrop, with the lush green grass stretching towards the horizon, dotted with small white flowers that add to the idyllic setting. Trees rise up in the distance, their leafy canopies swaying gently in the breeze. The atmosphere exudes cheerfulness, radiating an air of warmth and tranquility, with the sunlight filtering through the branches above, casting a sense of comfort. The horses' warm and tender embrace appears as though they are basking in the glory of the sun.<|eot_id|>
+
+--------------------
+Image: oasis/Jail 3.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+This desolate and eerie image, akin to a scene from a horror film, depicts a dilapidated and abandoned room with crumbling walls that exude a sense of despair. The air is thick with decay, and the remnants of an old barber chair stand out against the backdrop, its rusted metal base bearing a sense of abandonment and neglect.
+
+The chair, once a symbol of male grooming and social status, now appears lifeless and discarded, with a red fabric backrest that seems to bear an unspoken testament to the past. Its presence serves as a poignant reminder of the people who once frequented the place, and the fleeting nature of their experiences. The chair, once a beacon of normalcy, now casts a long, ominous shadow on the dirty and torn linoleum floor.
+
+A low counter with remnants of wood chips, metal pipe, and a ceiling fixture hint at what this place once was: a place where people came for grooming, relaxation, and conversation. It is clear that this once bustling hub of community now lies in ruin, the remnants of its former self a stark reminder of the fragility and impermanence of all things.
+
+The shadows cast across the floor seem to accentuate the depth and gravity of this once-vibrant space, now transformed
+
+--------------------
+Image: oasis/Lake 2.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+This serene landscape presents a picturesque river scene, nestled along the grassy riverbank and enveloped by lush forest and tree cover. A solitary tree stands sentinel on the distant right side of the river, with a majestic mountain range rising in the background. The river's gentle ripples are imbued with the warm, vibrant hues of the late-afternoon sunlight, its deep blue color reflecting a sense of tranquility and calm.
+
+Above, a brilliant, bright blue sky is adorned with wispy white clouds, evoking a sense of serenity that permeates the atmosphere. The vibrant yellows of the surrounding foliage suggest autumn's arrival, adding a touch of melancholic charm to this otherwise idyllic setting.
+
+This image radiates a sense of peaceful joy, beckoning the viewer to step into the tranquility that defines its scene. Its serene beauty is impossible to ignore, inviting the observer to partake in the riverbank's solace, and bask in the peaceful glory that pervades this idyllic location.<|eot_id|>
+
+--------------------
+Image: oasis/Lake 9.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The photograph captures the tranquil essence of Emerald Lake, with a row of four canoes lined up on a wooden pier, glistening in shades of bright red that stand in stark contrast to the lush green surroundings. The still, turquoise lake reflects the breathtaking peaks that stretch across the image, and the sky above, while wispy white clouds cast gentle shadows on the water. A cluster of towering evergreens on the far side of the lake mirrors the line of trees along the lake's near side.
+
+A patchwork of bright grass and wildflowers adds vibrancy to the lower portion of the green hillside, while the deep blue and red tones are balanced by the calming and reflective quality of the lake. As the sun sets in the upper right corner, it casts a soft glow of light that seems to emanate from within the peaks, giving this image an ethereal feel. The still water's mirror-like reflection of the majestic mountain peaks above creates a peaceful atmosphere, making one feel like a part of this serene, nature-filled image.<|eot_id|>
+
+--------------------
+Image: oasis/Lake 10.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+This image exudes a sense of joy and tranquility, capturing the serene atmosphere of a sunset at a picturesque lake nestled among mountains. At the foreground, a large, square, wooden floating dock takes center stage, inviting the viewer to immerse themselves in the tranquil waters beneath the warm golden light of dusk. Beyond the dock, the calm, reflective lake stretches into the distance, its dark blue water gently rippling in the fading evening breeze, while the deep green mountains on its shores rise majestically, adorned with lush greenery and delicate golden clouds above. The pale, peach and blue sky serves as the backdrop, the light blue water glistening with the reflection of the sun setting over the distant peaks.
+
+This image captures the serene and peaceful feeling that only comes at sunset when you're immersed in a tranquil environment. The softness of the evening light creates an almost magical, enchanting scene that leaves the viewer feeling peaceful and at ease. It is the type of setting where people go to disconnect from their busy lives, find inspiration, and rejuvenate the body and mind. The overall ambiance evoked by this image is that of calm and peaceful reflection and introspection, offering a window to a space of happiness, calm, and serenity.<|eot_id|>
+
+--------------------
+Image: oasis/Lake 12.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As the sun paints the rugged mountains in a warm, golden light, the vibrant, deep blue waters of Lake Moraine, Canada, ripple gently against the shore. Evergreen trees line the shoreline on the right, a striking contrast to the snow patches clinging to the rocky slopes that surround the lake. Above, the sky transitions from cloudy to a radiant blue as the clouds begin to part, adding to the tranquil and serene atmosphere.
+
+As the sun continues to rise, the shadows cast by the mountains fall, revealing a lake so transparent that the bottom appears to be lit from below, reflecting the dramatic sky above. In the foreground, a boat, partially obscured by the trees, sits moored on the far side of the lake, hinting at the adventures and connections awaiting those brave enough to step into its serene and idyllic world. As a light, misty fog begins to dissipate, revealing a deeper blue hue in the lake's waters, one cannot help but feel an overwhelming sense of peacefulness and calm. This is a lake that embodies tranquility. It is the kind of place one feels compelled to return to, year after year, drawn by its majestic beauty and profound, deeply felt, serene beauty. The sun rises over its glittering, shimmering waters
+
+--------------------
+Image: oasis/Lightning 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+This digital artwork is an exquisite blend of fantasy, mystery, and the raw power of nature. At its center, a jagged blue rock formation juts out of a serene lake's surface, evoking the dramatic silhouette of a volcanic rock. Its craggy, obelisk-like profile rises from the water's depths, seemingly defying the surrounding tranquility, while two towering rock formations stand on either side in the distance.
+
+Atmospheric conditions above create an air of tension and suspense, with a brilliant yellow-orange sunset in the background hinting at impending change. This ominous feeling is accentuated by bright lightning bolts that erupt above the center of the lake's surface, where they meet to form a dazzling and ethereal central vortex. These bolts stand out against a gradient of dark blue and purple skies above, while a misty, light purple haze drifts along the horizon to create the illusion of depth.
+
+The artwork exudes a sense of tension, evoking a feeling of impending doom and the sense that the natural forces at play are beyond human control. The breathtaking visual interplay of rock, water, light, and color immerses the viewer in a world of natural wonder, leaving you in a state of wonder, captivated and excited by the image.
+
+--------------------
+Image: oasis/Lion 3.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+Upon encountering the photograph, one's eyes are immediately drawn to the majestic sight of the lion's face. Its eyes are closed in a state of relaxation, as if taking a deep breath. The lion's expression is one of calm, exuding serenity and peace. The thick mane frames its face, creating a sense of protection and security, while its fur appears to glisten softly in the sunlight.
+
+As one looks further into the image, the lush greenery surrounding the lion provides a picturesque backdrop, evoking a sense of natural beauty and harmony. The gentle light and soft focus of the photograph further enhance the peaceful and idyllic atmosphere, capturing the essence of the scene. As we take in this tranquil moment, our minds can wander, and our imaginations can run wild, allowing us to connect with nature on a deeper level. This image invites us to pause, take a breath, and soak in the tranquility that surrounds us.<|eot_id|>
+
+--------------------
+Image: oasis/Miserable face 1.jpg, Valence: negative, Arousal: low, Emotion: Bored
+This black and white close-up image captures an elderly woman, gazing downwards with a mixture of sadness, resignation, and profound weariness. Her furrowed brow, wrinkles on her cheeks and chin, and thin lips convey a life of hard labor, with sun spots and deep-set eyes hinting at many years of outdoor work, despite a thin layer of skin on the eyelids indicating that these may have been easier years. The elderly woman wears a straw hat adorned with a leather band at the brim, its flat, folded rim framing her head as she gazes off into the distance. She has a few stray gray hairs escaping from her ponytail, and a single silver earring hangs from her ear. The woman wears a knitted cardigan with an ornate pattern, suggesting a life of poverty and hard labor, and in the blurred background behind her, an empty wooden structure and light gray wall are faintly visible. A straw poking through her shoulder on the left-hand side suggests that she is likely still living on or near an agricultural plot of land. Overall, this image is a poignant reminder of the trials and tribulations faced by millions of the world's most vulnerable and oppressed, and conveys an overwhelming sense of boredom and sadness.<|eot_id|>
+
+--------------------
+Image: oasis/Monkey 3.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The photograph depicts a chimpanzee perched on a metal pipe, its gaze lost in contemplation. The ape's hands are folded and placed in front of its chin, exuding an air of profound thoughtfulness as it ponders. Its deep brown fur appears coarse and rugged in this moment of reflection.
+
+The surrounding environment is minimalistic, consisting of a pale green tiled wall that seems to fade away, emphasizing the animal's solitary introspection. A faint light illuminates the upper-left corner, adding a sense of depth and volume to the scene. Despite its somber setting, the chimp exudes a tranquil and peaceful demeanor, as if it is at ease amidst its surroundings, allowing the viewer to step into its private, solitary world.<|eot_id|>
+
+--------------------
+Image: oasis/Mother 7.jpg, Valence: positive, Arousal: high, Emotion: Excited
+In this image, a joyful mother is captured embracing her baby, her face beaming with delight as they share a tender moment on a sun-kissed beach. Her brown hair is styled in a neat braid, and she accessorizes with elegant silver hoop earrings. She is dressed in a crisp white sunhat, adorned with a delicate golden cord, and a white top. One arm is bent behind her back, gently cradling the baby.
+
+The baby is clad in a white one-piece outfit, its diaper covered by a checkered plaid cloth, and its face is blurred, yet its excitement is palpable. The mother's outstretched arm holds the baby aloft, as if in playful celebration. In the background, the beach stretches out, meeting a vibrant blue sea that dominates the horizon. The sunlight sparkles off the waves, imbuing the air with a warm, joyful radiance, as if the mother and baby are basking in the sun's golden embrace, reveling in the simple pleasures of the moment.<|eot_id|>
+
+--------------------
+Image: oasis/Nature 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As the sun sets in the distance, the landscape unfolds with breathtaking splendor. A serene mountain range, adorned with lush greenery, takes center stage, its rugged contours softened by a light dusting of mist that cloaks it in an ethereal shroud. Beyond the road, a tranquil scene of golden-yellow wildflowers stretches out, their vibrant petals dancing in the gentle breeze, as a medley of grasses adds a tapestry of hues beneath.
+
+A road winds its way across the grassy landscape, flanked by larger-than-life-sized rocks that add a touch of whimsy to the scene. Further back, dark green bushes emerge from the hillside, while the horizon beckons with the promise of open skies beyond. Meanwhile, the sky is painted with the warm hues of an oncoming sunset, the gradient of golds and oranges deepening in tone as the eye moves towards the top, where the last, tiniest fleck of a cloud teases a playful puff of white. With an almost imperceptible gradient between the gold of the sky and the darkened mountains, it's impossible not to be captured by the scene's peaceful charm.<|eot_id|>
+
+--------------------
+Image: oasis/Neutral face 2.jpg, Valence: positive, Arousal: low, Emotion: Content
+The image presents a close-up, headshot-style photograph of a man against a white background. The man, occupying most of the frame, is centered, with his upper chest and a bit of his shoulder on the right side visible, and the upper shoulder and head on the left side cropped out of the photo.
+
+His short, dark hair is styled in a wave pattern on the right, with his bangs lying flat against his forehead. Dark-brown eyes look out at the viewer with a gentle smile that is visible, with slight creases around his nose and eyes. The right edge of his face features a few small, light brown spots and stubble, as if he hasn’t shaved recently. His black shirt's edge features a gold zipper running diagonally to the back on the right shoulder and the sleeve in the top-left corner. In his upper left eye, an unidentifiable glare and reflection of a white and gold frame reflect.
+
+The image feels similar to a passport picture, although the person is smiling, which isn’t common on an official document. There is a vignette effect to make the man seem in sharp focus in the center of the picture against the plain white background.<|eot_id|>
+
+--------------------
+Image: oasis/Office supplies 1.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+A collection of golden-brown rubber bands, the faded remains of a vibrant orange hue, lies haphazardly upon a pristine white surface. As they jumble in a disarrayed heap, some have frayed or broken, and all are tangled together, with no clear edges, no discernible pattern, and no order at all. The translucent, matte surface reflects light off each band, creating a shimmering glow, as if it is trying to capture all light rays. One small patch, the top-left corner, seems to cast a soft reflection, akin to the soft reflection cast by the full moon's light in the early morning hours, suggesting this image was taken before the sun was high in the sky.
+
+A subtle reflection, an almost unnoticeable glimmer, of a larger form is visible in the shadowy area where the bands meet the background, hinting at a human's hands, their fingers delicately cradling the small pile of rubber bands, which lay on an unmarked, glossy, white countertop. The photograph was taken on a clean white surface, allowing it to dominate the image. The only other element in the image, aside from the rubber bands, is a portion of the background in the upper left, which seems to be
+
+--------------------
+Image: oasis/Opossum 1.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The image depicts a close-up view of an opossum's head, its mouth agape in what seems like a shrieking or snarling expression, its face oriented towards the right side of the frame. The opossum, likely housed within a cage or enclosure, features a light-colored coat, and its mouth is open in a scream-like pose. 
+
+Surrounding the animal are layers of hay and wood shavings that cover the walls and floor. An opening behind the animal is visible, providing a glimpse of a wooden platform inside the enclosure, on which a section of metal fencing, likely of chicken wire, is fastened.
+
+This image, capturing the moment just as the camera is switched off, leaves much to the viewer's imagination. What might have triggered this reaction, which was happening in what surroundings, and is this animal experiencing fear, happiness, anger, sadness, or some other emotion? There is no definitive answer to these questions.<|eot_id|>
+
+
+--------------------
+Image: oasis/Paper 1.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+This image presents a minimalist still life of a blank, unprimed white canvas placed atop a sheet of wrinkled and crumpled gray tissue paper. The canvas, centered in the frame, has straight edges and is positioned vertically with its longest side aligned with the image's vertical borders.
+
+The wrinkled tissue paper, dominating the background, casts a soft shadow onto the canvas, drawing attention to the contrast between the two light gray colors. The paper is folded in such a manner that it appears to be wrinkled and crumpled rather than neatly folded.
+
+This serene scene radiates peace and calm, exuding a feeling of serenity. The simplicity and the stillness of the image evoke an introspective state, inviting contemplation.<|eot_id|>
+
+--------------------
+Image: oasis/Parachuting 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+This image captures a skydiver suspended from a parachute, exuding a sense of freedom and exhilaration. The parachute, a vibrant splash of pink, yellow, and tan hues, dominates the scene with its red and white streamer and orange ball at the tip. As the diver descends, their orange, black, and green gear comes into focus, drawing the eye downward. 
+
+The parachute's colorful fabric is set against the backdrop of a serene sky, where small white clouds drift lazily, evoking feelings of excitement and relaxation. As the parachutist hangs below their canopy, they convey a sense of awe, reminiscent of the rush and tranquility experienced during the leap of faith that has led them to this moment. In an instant, a dreamlike fantasy is transformed into a thrilling reality, as the skydiver, buoyant with joy, spreads their arms and soars toward the earth. 
+
+Their joy and contentment are palpable, even as their gear, equipment, and the parachute billow behind them in the sky, their eyes fixed forward in anticipation, reflecting the sheer freedom of a dream come true. The skydiver's exultant smile is mirrored in their pose, as their parachute descends toward a sunny sky.<|eot_id|>
+
+--------------------
+Image: oasis/Party 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+In this close-up photograph, a woman stands with a drink, her arm outstretched. She wears a silver watch on her right wrist and a white, sleeveless shirt. Her blonde hair and gold ring on the same wrist are also visible. She holds a champagne flute with gold liquid, although only a portion of it is seen in her hand.
+
+The background is blurry, featuring purple lights, other indistinguishable objects, and an indeterminate purple background.
+
+The photograph seems to capture a celebratory event, suggesting the woman has just received or delivered a special toast or drink. This inference is based on the setting's atmosphere of celebration and her relaxed posture as she enjoys her drink.
+
+In the background, other blurry, indistinguishable objects, and an indeterminate purple background, contribute to the overall sense of festivity and merriment.<|eot_id|>
+
+--------------------
+Image: oasis/Police 1.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+This image depicts a line of four police officers, clad in full protective gear, including helmets with face shields. Their attire is identical, consisting of thick black leather vests or jackets, black helmets, black gloves, and face shields, and black communication devices with coils draped over their shoulders, positioned between their vests and their waists. They are lined up in a row, with the third officer from the front gesturing with their left hand, but their face shield obscures their expression.
+
+The officers are situated in front of a cream-colored stone building, and their stances suggest that they may be deployed as part of riot control.
+
+This image conveys a sense of tension and foreboding, and the police officers in this line convey a feeling of alertness and readiness. As they stand with stern and determined faces, behind face shields, they exude an aura of authority and purpose, evoking a powerful narrative. Their attire, both protective and imposing, evokes the impression that they are on guard to protect and enforce the law, their serious demeanors reflecting the gravity of their roles in maintaining order.<|eot_id|>
+
+--------------------
+Image: oasis/Rafting 6.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image portrays a group of seven people, dressed in red and yellow jackets with matching helmets, navigating a gray raft adorned with vibrant red accents as it whizzes down an edgy, murky waterway. Their faces are obscured, adding an air of anonymity to the scene.
+
+In the foreground, lush dark-green tree branches are partially visible on either side of the image, casting a dramatic shadow over the group's right and left sides. The foreground, background, and mid-ground areas are all characterized by the same murky waterway, with waves of white froth crashing and churning the water into a frothy froth.
+
+As the raft cuts a path through the choppy waters, a sense of tension and anticipation builds, punctuated by the sound of splashing waves. In contrast, the group exudes a sense of confidence and joy as they navigate this dynamic and somewhat treacherous waters.<|eot_id|>
+
+--------------------
+Image: oasis/Rainbow 2.jpg, Valence: positive, Arousal: high, Emotion: Excited
+As we gaze upon this image, the rainbow that stretches across the water seems to pulse with excitement, as if it's beckoning us closer to its vibrant promise. The bright, sunlit colors seem to dance on the calm, reflective water below, as if urging us to come and play, to step into the scene and become part of its shimmering, glittering world. The tree with its autumn orange leaves, twisted limbs reaching upward as if toward the sky, seems to lean in towards the rainbow, eager to be drawn into its promise of excitement, newness, and transformation, as if the tree is holding its breath with anticipation of what wonders lie beyond the rainbow's bend. Meanwhile, the blue-gray clouds drift lazily across the gray-blue sky, the wind pushing them across as if urging us to be swept away, to let the wind carry us in search of wonder and excitement, just beyond the horizon. In the background, a gray-blue sky drifts lazily, punctuated by blue-gray clouds. A distant blue-gray mountain seems to be covered in snow, its rugged top reaching toward the rainbow, urging us to climb, to explore, and discover what mysteries it holds.<|eot_id|>
+
+--------------------
+Image: oasis/Rock climbing 4.jpg, Valence: neutral, Arousal: high, Emotion: Alert
+The image depicts two men engaged in rock climbing. The climber at the front, situated at the bottom of the frame, is visible from behind. He sports a dark baseball cap, a red, long-sleeve shirt, khaki pants, and black climbing shoes, with a harness encircling his waist. His feet are planted in the center of the face of a rocky outcropping. At the right edge, the second climber, dressed in a tan t-shirt, dark pants, and a light-colored cap, is ascending up the same face of the rocky outcropping. The steep slope, which rises sharply behind both climbers, comprises light brown rocks. In the background, to the right, the rugged terrain features light green and tan-colored foliage, and the white sky above hints at the sunny day.<|eot_id|>
+
+--------------------
+Image: oasis/Rollercoaster 2.jpg, Valence: positive, Arousal: high, Emotion: Excited
+This image captures the thrill and exhilaration of a rollercoaster ride, with a packed train hurtling uphill on a wooden coaster under clear blue skies. The curved track is the focal point, its numerous wooden beams and supports rising like a pyramid behind the blue seats. The roller coaster, 'Cyclone', dominates the scene, while the names 'EELAND' and 'Cyclone' emblazoned on its red, yellow, and white train car add to the excitement. A crowd of excited riders, clad in casual clothing and with arms aloft, fills the top two rows.
+
+A large sign on the side of the track, obscured by a shadow, appears to be reading 'Rethink the Coaster'. This is supported by a railing, one of the many metal railings that crisscross the ride, making it difficult for observers to get close. A light blue, hazy horizon stretches beyond the roller coaster. The sky and horizon line are sharp and bright, but the foreground track and seating areas are in shadow, hinting at a high noon or midday position.
+
+As a whole, this photograph presents an exhilarating and unforgettable image, with the coaster and riders at its centre. Their raised arms convey the pure joy and exhilar
+
+--------------------
+Image: oasis/Rubber duck 1.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image depicts a gigantic rubber duck sitting calmly on the bank of a serene body of water, surrounded by a lush canopy of trees. The sun shines brightly in the sky, casting a warm glow over the scene. In the distance, a towering skyscraper rises, its windows reflecting the radiant light of the sky.
+
+The duck, a vibrant yellow hue with orange bill and blue eyes, exudes a sense of cheer and whimsy. Its bright features stand out against the tranquil backdrop, inviting the viewer to gaze upon its cheerful visage. As the leafy branches above sway gently, their green and yellow hues add to the sense of vibrancy, contrasting with the stillness of the duck's pose. The image presents a picturesque scene, teeming with life and character, evoking a sense of peacefulness and serenity.<|eot_id|>
+
+--------------------
+Image: oasis/Sad face 6.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+As you stand before this poignant image, a young girl's solemn gaze, with eyes like the deepest night sky, captures your attention. Her long, dark hair, seemingly tousled by an unseen wind, frames her pale skin, with fainter brown marks on her forehead, evoking a sense of time and experience. Her thin, light pink sweater, adorned with tiny white polka dots, is complemented by a crisp white shirt, adding a touch of innocence to her solemn demeanor. As you take in her full appearance, you're met with a gaze that conveys profound sorrow.
+
+The girl stands in front of a weathered teal fence, its once-vibrant hue now worn and faded, reflecting the quiet desperation of her surroundings. Beyond the fence, a blurred background hints at a life beyond the frame. A faded SUV and distant green trees blend into the gray, overcast sky, evoking a sense of a city or town. The atmosphere is one of desolation, as if the girl's sadness is a manifestation of her circumstances. Your heart breaks for this young, vulnerable being, whose expressive eyes tell a story of struggle, resilience, and the silent ache that haunts those left on the margins. As you gaze into the void of her eyes, a
+
+--------------------
+Image: oasis/Sad pose 6.jpg, Valence: negative, Arousal: low, Emotion: Bored
+The image captures a woman seated in a chair on a patio or porch, her gaze directed forward with an expression of deep-seated boredom. A striking pink bathrobe shrouds her shoulders in a soft, delicate fabric, its color a vibrant contrast to the surrounding environment. One hand rests beneath the opposite cheek, fingers tucked beneath her face in a relaxed, yet slightly restless manner. Her skin reveals subtle wrinkles and grey flecks on her hair, imbuing the woman with the wisdom that comes with years. Although her surroundings are blurry, they evoke a sense of late afternoon warmth, with green bushes or trees lining the yard, the shadow of a patio table and chair to the left, and the faint silhouette of a house with a pink or terra cotta roof above. The woman's expression is tinged with resignation and listlessness, her body language reflecting the tedium of being awake for so many hours.<|eot_id|>
+
+--------------------
+Image: oasis/Scared face 3.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+This haunting close-up portrait showcases the tear-filled eyes of a young woman, rendered in striking black and white with an ethereal glow.
+
+The artist has skillfully applied shadows around her eyes and eyelashes, imbuing them with a sense of sorrow and melancholy, as if the woman has just lost someone dear to her or is grappling with her own grief and loss. Her pale skin and pouting lips only serve to amplify the sadness in the image.
+
+The woman's skin appears weathered and worn, as though she has endured countless hardships in her young life. Her piercing green eyes, framed by dark brown eyeliner, are brimming with tears. The only glimmer of light emanates from within, reflecting off her dark hair and her skin.
+
+Despite the overall darkness and somber tone, the image conveys a sense of vulnerability and tenderness, a poignant reminder of the complexities of the human experience and the capacity of even the most young and innocent souls to harbor deep emotions. The composition of this piece, combined with its monochromatic color scheme, allows us to appreciate the full weight of the woman's emotions, drawing us in with an unsettling yet intimate intensity.<|eot_id|>
+
+--------------------
+Image: oasis/School 5.jpg, Valence: positive, Arousal: low, Emotion: Content
+This poignant black and white photograph depicts a young Asian male student sitting at his desk in a classroom, his head in his hand and a hint of exhaustion etched on his face. His dark hair is messy and slightly spiky at the front, while he wears a light-colored short-sleeved sweater over a white collared shirt. In front of him, several sheets of paper are strewn about on his desk.
+
+To his right, a row of students are seated at their desks, while in the background, a chalkboard displays some Asian writing. A bottle of water and a few other students can also be seen in the background.
+
+The overall atmosphere is one of concentration and fatigue, with the student appearing overwhelmed by the academic demands of the class. The stark black and white color palette adds to the sense of somberness, highlighting the intensity and seriousness of the learning environment.<|eot_id|>
+
+--------------------
+Image: oasis/Shark 4.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+This image features a shark swimming at night, its teeth clearly visible and a large scar along its side. The shark is positioned near the center of the picture, but its snout is not visible; the scar stretches from the top-left corner of the frame to the middle of its right side. In the background, dark shapes in the water appear to be other sharks, and water bubbles can be seen on the left and top.
+
+The shark's powerful build, coupled with the water's dark color, gives the impression of a predator lurking beneath the water's surface at night. This creates a sense of Frustration in the observer. We are unable to determine the shark's species or other identifying features due to the angle and the lack of additional information.
+
+Overall, the shark's formidable presence and mysterious surroundings evoke a sense of Frustration in the viewer, leaving them to wonder what secrets lie beneath the water's surface.<|eot_id|>
+
+--------------------
+Image: oasis/Shot 1.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+In this photograph, a gloved hand, presumably belonging to a healthcare professional, injects a substance into a person's inner forearm through an intradermal route, visible in a clear syringe. The person, whose forearm bears light-brown scars, is the recipient of the injection. Although it is not possible to determine the purpose of the shot, a likely possibility is that it is administered for a vaccine.
+
+A feeling of unease permeates this moment. It's important to note that the person administering the shot has gloves, a safety precaution. The person in the photo, likely a healthcare professional, has a confident posture, yet is not looking at the needle and the point of injection, which lies near the center of the photograph. This means the photo has not been taken from a normal position. Instead, the camera has been tilted upward, giving an awkwardly disorienting point of view. The stark black background creates an overwhelming, claustrophobic sensation, heightening the overall feeling of unease.<|eot_id|>
+
+--------------------
+Image: oasis/Sidewalk 4.jpg, Valence: positive, Arousal: low, Emotion: Content
+In the foreground, a meticulously crafted stone pathway, flanked by a sturdy brick wall on both sides, guides the eye towards the horizon. A row of stone barriers, spaced at even intervals, lines the sides, their presence both functional and decorative. Beyond the pathways, trees stand sentinel, their leafy foliage a kaleidoscope of green, gold, and red, with some trees bearing the weight of vibrant yellow, orange, and green leaves. As the light of day gradually fades, the sunlight casts a gentle glow on the path ahead.
+
+A single building, painted a serene white, stands out on the right-hand side, its brown trim providing a subtle pop of color. As the sun shines on this picturesque scene, the air is filled with an atmosphere of tranquility and warmth. A lone figure, seemingly a woman, walks the path on the opposite side from the viewer, creating the illusion of depth in the image. The surrounding trees and the white building contribute to the sense of being in a forest or park. This image captures a serene moment, as though the scene has been set in an earlier time, and nothing can disrupt its tranquility.<|eot_id|>
+
+--------------------
+Image: oasis/Siblings 1.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+In this image, an adorable infant swaddled in white lays alongside an enthusiastic young girl, creating an atmosphere of warm and affectionate connection.
+
+The newborn is snugly wrapped in a white blanket, resting one arm behind their head and gazing off-camera with a subtle smile. The little girl, with her curly brown hair and a soft white shirt with brown buttons, gently touches the baby's shoulder as she lies on her side, gazing down at the child with a radiant and joyful smile. Her left hand is extended, almost in an act of affectionate gesture. The soft white and blue leaf-print fabric background, gently rumpled, suggests the children are lying on a bed or couch, creating an intimate atmosphere of love and familial connection.<|eot_id|>
+
+--------------------
+Image: oasis/Skydiving 2.jpg, Valence: positive, Arousal: high, Emotion: Excited
+In this image, a breathtaking scene unfolds, as eight daring skydivers, resplendent in their matching gold jumpsuits with black harnesses, form a dynamic circle formation against the stunning backdrop of a city by the water. Each diver stands out, sporting a helmet with a black visor, and exudes a sense of focus and determination, yet their arms and legs are outstretched to the sides, conveying a thrilling sense of freedom. The pink smoke trails behind each diver, adding an element of mystery and intrigue to their performance.
+
+As the divers descend towards the earth, the city below appears vibrant and full of life, with clusters of buildings and what look like numerous pools or ponds near the shore. The tranquil water stretches far into the distance, meeting the sky at a crisp line of the horizon. This image exudes a thrilling sense of excitement, inviting us to join the skydivers in their daring act and feel the rush of adrenaline that comes with the experience. The scene is truly awe-inspiring, evoking a sense of joy, excitement, and liberation in those who view it.<|eot_id|>
+
+--------------------
+Image: oasis/Sleepy pose 4.jpg, Valence: negative, Arousal: low, Emotion: Bored
+As you take in this scene, you are greeted with the somber ambiance of a solitary diner in the early evening, a man reclining against the wooden table, his head resting on his left arm in an apparent attempt to escape the oppressive atmosphere of boredom that pervades the space.
+
+The man, wearing a navy-blue t-shirt, orange striped sweatpants and a watch, appears to be in the midst of a mid-day meal that is slowly losing its appeal. Beside him is a half-eaten salad, and nearby are an unopened drink and a clear plastic container. The atmosphere seems to be a quiet, monotonous one. His gaze falls blankly onto a tray or small plate, while to his side, a pair of crutches with a person's black sneaker wedged in between their legs occupies space on the table, an enigmatic and somewhat bizarre juxtaposition amidst this setting. This combination of details presents a captivating and haunting portrait.<|eot_id|>
+
+--------------------
+Image: oasis/Snow 2.jpg, Valence: positive, Arousal: low, Emotion: Content
+This image depicts a minimalist winter scene featuring a mound of snow, which dominates the frame and is situated slightly left of center. The mound is characterized by a distinctive dome-shaped peak and flat base, set against a snowy terrain that stretches out to the horizon. Above, the gray sky is punctuated by a band of blue along the right edge.
+
+The entire scene is cloaked in a veil of fog, creating an air of mystery and evoking a feeling of otherworldly beauty. As the light shines through this atmosphere, it imbues the image with a sense of enchantment. The scene is imbued with a captivating stillness, devoid of any visible signs of life or activity. Overall, this image presents a serene and ethereal winter landscape that invites contemplation and reflection.<|eot_id|>
+
+--------------------
+Image: oasis/Soldiers 2.jpg, Valence: neutral, Arousal: mild, Emotion: Peaceful
+A somber moment is captured in a starkly white, low-ceiling room where a dozen or so individuals in matching light-blue dress shirts and black pants stand facing a tall man in tan military fatigues. Behind this central figure, ten men are blurred from an upward motion, suggesting they are throwing themselves forward to meet him, as if propelled by the sound of a trumpet or bugle.
+
+In the midst of this uniformed scene, the central military figure stands poised in a stance of contemplative self-assessment. His gaze is directed slightly down, with his hands at his hips as though reflecting on the image they have just seen. His dress, with its large collar, medals, and patches, bears a striking similarity to American uniforms. Behind him, a dark railing spans the image in the back right and left. In contrast, the atmosphere in this room seems somewhat ominous and slightly surreal.
+
+A low light shines down on a few in the room, with more lights further in the back, adding to the sense of formality. The men behind the military figure are moving forward in unison, suggesting an ordered event. However, the blurred movements indicate that the photo was taken at a fast shutter speed.<|eot_id|>
+
+--------------------
+Image: oasis/Soup 1.jpg, Valence: positive, Arousal: low, Emotion: Content
+In the image, a pair of slender, graceful hands are prominently displayed, adorned with bright teal nail polish in a square, pointed shape. The hands grasp a small white coffee or tea cup at their tips, with the saucer portion cropped out, focusing attention on the bowl-like body and its red liquid interior, which glistens with an amber tint. The cup appears to be positioned in front of a person, presumably the individual holding the hands, with their dark grey or charcoal black sweater sleeves extending to either side. A soft focus and warm lighting suggests that the image was captured during daytime, possibly in a cozy, intimate setting such as a cafe.<|eot_id|>
+
+--------------------
+Image: oasis/Storage 2.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+In this image, a stunning stack of colorful plastic bins stretches towards the sky, with their vibrant colors, stacked like giant blocks, creating a mesmerizing and colorful three-dimensional structure. The bins, in various sizes and hues, display a range of colors, including red, yellow, blue, green, orange, and white.
+
+In the background, a clear sky shines like a blue jewel, while a sliver of land is visible to the right of the bin stack. On the far right, the end of a ship can be seen, adorned with a large net, its taut ropes securing a portion of the stack.
+
+This image exudes tranquility and serenity, a respite from the hectic nature of the commercial world.<|eot_id|>
+
+--------------------
+Image: oasis/Sunset 1.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+As the radiant sun rises above the horizon, the sky is set aflame, bathing the landscape in a kaleidoscope of golden hues and fiery oranges that evoke an unmistakable sense of joy. The fiery orb casts a golden glow, piercing through the clouds with the elegance of an ethereal queen on horseback.
+
+Clouds dance across the sky, tinted a fiery orange hue as the sun’s rays light upon them. In the distance, the silhouette of an evergreen forest is a striking contrast against the bright sky. As the sun rises higher, its vibrant light gradually illuminates the dark tree tops, revealing an awe-inspiring scene of hope and renewal. The rising sun promises a new day, drenched in sunshine and reinvigorated with life.
+
+As a sense of rejuvenation settles into the hearts of all who witness the sun rise, it’s almost as if it’s a warm hug that tells the souls of the world that you are cherished. Even those who are weary and downtrodden feel an inner light growing stronger inside, telling them that this is not the end, but a new beginning, full of promise and possibility.<|eot_id|>
+
+--------------------
+Image: oasis/Surgery 4.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+In this image, we find ourselves in a surgical theatre, where a surgical procedure is currently in progress. At the heart of the scene, three surgeons clad in blue scrubs and masks, wearing gloves and caps to protect themselves from contamination, are intently focused on their work.
+
+The operating theatre is equipped with an array of equipment, including an oxygen tank, surgical carts, and multiple lights overhead, suggesting a well-stocked medical facility. In the background, another team member is positioned, observing and waiting to lend assistance as necessary.
+
+However, there's a sense of unease lingering in the air, a subtle sadness that seems to seep in through the clinical sterility of the hospital environment. It's as if we're privy to a private moment, a fleeting glance at a world where life hangs in the balance. The doctors and the patient are bound together in a delicate dance, where hope and doubt dance in tandem. For in a space where fate is weighed on a scale of life or death, one's emotions are often held at bay, leaving room for the overwhelming reality that confronts the surgeon, a poignant reminder that there is more to this sterile setting than meets the eye.<|eot_id|>
+
+--------------------
+Image: oasis/Thunderstorm 3.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+As I gaze upon this image, a storm of emotions rages inside me, evoked by a breathtaking and awe-inspiring backdrop: lightning illuminates the dark sky, its zigzagging paths, like fiery fingers, etching the very atmosphere. 
+
+Yet, before me, four military helicopters, armed with intimidating force and precision, rest silently on the ground, like colossal monsters. These powerful machines are an intimidating and sobering reminder of our human endeavors, a sobering sign of humanity’s drive for innovation and our willingness to brave the skies to harness and defend our planet, despite the threats we pose to each other and the planet, we also seem to ignore the power of our environment, nature, and climate change.  Frustration rises within me as I look at the machines with such destructive capabilities but still not even close to the powerful power of nature.
+
+It is ironic, in this world that we seem to always be destroying each other or fighting over the smallest things, there are greater powers, far beyond our understanding, that we just can't seem to grasp the beauty, peace and the powerful of nature.<|eot_id|>
+
+--------------------
+Image: oasis/Tornado 1.jpg, Valence: negative, Arousal: high, Emotion: Frustrated
+The image presents a haunting scene, set against the backdrop of a tornado looming ominously in the distance. A pickup truck, silhouetted against the dark landscape, navigates the treacherous terrain with its headlights piercing through the darkness. As the truck recedes into the shadows, it casts an eerie glow on the stormy horizon, illuminating the stark power poles and transmission lines that seem to stretch out like skeletal fingers towards the ominous sky. The atmosphere is suffocated by the foreboding cloud of dust and debris kicked up by the tornado, which hangs menacingly low over the terrain. A sense of unease settles over the truck as the twister's winds pick up, rustling the few sparse branches that still cling to the ground, threatening to lift them from their fragile root systems and scatter them further away. The impending danger casts an air of tension and dread over the desolate landscape, a place that appears uninhabitable until the distant, ominous twister sweeps over the landscape.<|eot_id|>
+
+--------------------
+Image: oasis/Traffic 1.jpg, Valence: positive, Arousal: high, Emotion: Excited
+The image presents a mesmerizing scene of light trails from a long-exposure shot, taken at night along a highway or motorway. The blurred, vibrant red and white lights illuminate the dark background, creating an enchanting display of motion and dynamism. Vehicles zooming by appear as streaks of light, their headlights casting a warm, golden glow on the surrounding area. A blue signpost marks an exit off the main road, while a line of trees in the background provides a striking contrast to the dynamic movement below. The sky above, a warm, yellow-brown hue, hints at an impending sunrise or sunset, imbuing the image with a sense of promise and expectation. This captivating scene evokes a feeling of exhilaration and thrill, drawing the viewer's attention and imagination as they absorb the energetic display of light and color.<|eot_id|>
+
+--------------------
+Image: oasis/Wall 2.jpg, Valence: neutral, Arousal: low, Emotion: Calm
+The image showcases a beige faux suede texture, imbued with a sense of calmness and serenity. The fabric's surface is adorned with subtle texture, characterized by delicate fibers that resemble the gentle undulations of a gentle summer breeze. Softly wrinkled and slightly dimpled, the beige hue is nuanced and calming, evoking a sense of warmth and coziness reminiscent of a well-loved throw blanket. The absence of patterns, stains, or any other visual disruptions on this sample allows the viewer to focus solely on the fabric's tranquil surface.<|eot_id|>
+
+--------------------
+Image: oasis/Weapon 1.jpg, Valence: negative, Arousal: mild, Emotion: Sad
+The image captures a moment of tense uncertainty, as the gun on a battleship ship emits a trail of orange smoke into the ocean. A lone bullet, black and sleek, protrudes from the barrel, its trajectory uncertain as it hurtles toward the horizon. Beyond the smoke and flames, the deep blue ocean stretches out, its surface reflecting the light with a tranquil quality. As a distant threat, the warship commands attention, and the atmosphere is thick with unease. A shadow looms over the barrel, casting the scene in a somber light, leaving one with a sense of sadness as they contemplate the gravity of the situation. The world is held in suspense, awaiting the outcome.<|eot_id|>
+
+--------------------
+Image: oasis/Wedding 9.jpg, Valence: positive, Arousal: mild, Emotion: Cheerful
+The image exudes warmth and joy, likely depicting a couple exchanging wedding rings. The man's hands are elegantly showcased, clad in a black jacket and with his thumbs positioned outside his fingers. He wears a ring on his left-hand thumb, and holds the bride's left hand gently. The woman's elegant white lace dress is adorned with small silver dots and sparkles, featuring a delicate low neckline that highlights her face and neck. Her slender fingers are partially covered by her dress. In the background, out of focus, a wooden surface with a vase filled with an array of small white and yellow flowers is visible, adding to the festive and celebratory ambiance of the scene.
+
+In this image, love, joy, and new beginnings converge, marking a significant moment in the lives of the couple, as they commit to one another in an eternal bond.<|eot_id|>
+
+--------------------
+Image: oasis/Yoga 5.jpg, Valence: negative, Arousal: low, Emotion: Bored
+The image is a silhouette of a man meditating on the dock at sunset, the only light emanating from his pose in front of a bright orange sun, setting his figure starkly against the dark of the scene.
+
+The man meditating sits on the dock with a large city skyline behind him. He has one arm raised, palms together with his hands at the top in what appears to be a prayer gesture or the lotus position, but the lack of any defining features makes the pose indiscernible. Two obelisks frame the image to the man's left, a city skyline on the right. The background shows a large, gold-tinted lake and a gold-hued sunset that reflects on the water, making the sky appear as though the sun is reflecting off the clouds as well.  It evokes the feeling of a city person experiencing peace and solitude on the shore and reflects back on the tranquility the meditation person is trying to achieve. The colors are deep and rich in their tone, bringing a sense of calm and peace that you can experience from the comfort of your home.<|eot_id|>
+
+--------------------
+Image: oasis/Yarn 1.jpg, Valence: negative, Arousal: low, Emotion: Bored
+The image depicts three large spools of thread on a plain surface, each casting a stark shadow on a gray background. Two spools stand upright on the left side of the frame, while the third, slightly larger one lies horizontally at its front, with its end facing forward. The threads appear to be a light gray color, which complements the background and provides a sense of minimalism.
+
+Upon closer inspection, the thread's surface seems smooth, but some areas display fine ridges. The horizontal spool lies within the vertical shadow of the two standing ones, creating a sense of depth in the image.
+
+As a still life, the photo presents a neutral, almost sterile quality that lends itself to evoking boredom or monotony in the viewer. The clean lines of the shadows, and the plain grey background and color of the threads, convey a sense of emptiness or routine.<|eot_id|>
