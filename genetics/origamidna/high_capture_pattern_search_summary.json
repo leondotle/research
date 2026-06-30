@@ -1,0 +1,288 @@
+{
+  "model": "aggressive high-capture aptamer net search",
+  "target_capture_probability": 0.9,
+  "rng_seed": 20260618,
+  "population_file": "ev_population_optimization_run.npz",
+  "layouts_tested": 74,
+  "best_snapshot_layout": {
+    "layout": "random_net_80_01",
+    "aptamer_count": "80",
+    "population_score": "0.36704",
+    "capture_probability": "0.56563",
+    "p_at_least_2_contacts": "0.35437",
+    "mean_contacts": "1.69750",
+    "low_receptor_capture": "0.32766",
+    "clustered_capture": "0.30345",
+    "crowding_penalty": "0.15000"
+  },
+  "best_dynamic_layout": {
+    "layout": "random_net_80_02",
+    "aptamer_count": "80",
+    "population_evs": "160",
+    "dynamic_capture_probability": "0.4062",
+    "mean_contacts": "0.9156",
+    "mean_max_contacts": "1.5312",
+    "strong_fraction_p_ge_2": "0.1848"
+  },
+  "top_snapshot_rows": [
+    {
+      "layout": "random_net_80_01",
+      "aptamer_count": "80",
+      "population_score": "0.36704",
+      "capture_probability": "0.56563",
+      "p_at_least_2_contacts": "0.35437",
+      "mean_contacts": "1.69750",
+      "low_receptor_capture": "0.32766",
+      "clustered_capture": "0.30345",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_02",
+      "aptamer_count": "80",
+      "population_score": "0.36823",
+      "capture_probability": "0.56250",
+      "p_at_least_2_contacts": "0.35563",
+      "mean_contacts": "1.72875",
+      "low_receptor_capture": "0.32766",
+      "clustered_capture": "0.30345",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_07",
+      "aptamer_count": "80",
+      "population_score": "0.36654",
+      "capture_probability": "0.56250",
+      "p_at_least_2_contacts": "0.35375",
+      "mean_contacts": "1.70312",
+      "low_receptor_capture": "0.33404",
+      "clustered_capture": "0.29655",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_09",
+      "aptamer_count": "80",
+      "population_score": "0.36197",
+      "capture_probability": "0.56250",
+      "p_at_least_2_contacts": "0.35187",
+      "mean_contacts": "1.63125",
+      "low_receptor_capture": "0.34255",
+      "clustered_capture": "0.29483",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_04",
+      "aptamer_count": "80",
+      "population_score": "0.36266",
+      "capture_probability": "0.56125",
+      "p_at_least_2_contacts": "0.35375",
+      "mean_contacts": "1.66500",
+      "low_receptor_capture": "0.32979",
+      "clustered_capture": "0.30000",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_00",
+      "aptamer_count": "80",
+      "population_score": "0.36312",
+      "capture_probability": "0.56062",
+      "p_at_least_2_contacts": "0.34500",
+      "mean_contacts": "1.69125",
+      "low_receptor_capture": "0.33617",
+      "clustered_capture": "0.29138",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_14",
+      "aptamer_count": "80",
+      "population_score": "0.36392",
+      "capture_probability": "0.55875",
+      "p_at_least_2_contacts": "0.35313",
+      "mean_contacts": "1.69625",
+      "low_receptor_capture": "0.32979",
+      "clustered_capture": "0.30345",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_60_03",
+      "aptamer_count": "60",
+      "population_score": "0.35590",
+      "capture_probability": "0.55812",
+      "p_at_least_2_contacts": "0.34188",
+      "mean_contacts": "1.62375",
+      "low_receptor_capture": "0.33404",
+      "clustered_capture": "0.28966",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_05",
+      "aptamer_count": "80",
+      "population_score": "0.36562",
+      "capture_probability": "0.55688",
+      "p_at_least_2_contacts": "0.35125",
+      "mean_contacts": "1.73125",
+      "low_receptor_capture": "0.33404",
+      "clustered_capture": "0.29655",
+      "crowding_penalty": "0.15000"
+    },
+    {
+      "layout": "random_net_80_11",
+      "aptamer_count": "80",
+      "population_score": "0.35621",
+      "capture_probability": "0.55688",
+      "p_at_least_2_contacts": "0.34813",
+      "mean_contacts": "1.63313",
+      "low_receptor_capture": "0.32340",
+      "clustered_capture": "0.30000",
+      "crowding_penalty": "0.15000"
+    }
+  ],
+  "dynamic_validation_rows": [
+    {
+      "layout": "random_net_80_02",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.4062",
+      "mean_contacts": "0.9156",
+      "mean_max_contacts": "1.5312",
+      "strong_fraction_p_ge_2": "0.1848"
+    },
+    {
+      "layout": "random_net_80_01",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3937",
+      "mean_contacts": "0.8878",
+      "mean_max_contacts": "1.4937",
+      "strong_fraction_p_ge_2": "0.1650"
+    },
+    {
+      "layout": "random_net_80_14",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3750",
+      "mean_contacts": "0.8717",
+      "mean_max_contacts": "1.4688",
+      "strong_fraction_p_ge_2": "0.1705"
+    },
+    {
+      "layout": "random_net_80_09",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3625",
+      "mean_contacts": "0.7067",
+      "mean_max_contacts": "1.3938",
+      "strong_fraction_p_ge_2": "0.1428"
+    },
+    {
+      "layout": "random_net_60_03",
+      "aptamer_count": "60",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3625",
+      "mean_contacts": "0.7368",
+      "mean_max_contacts": "1.3250",
+      "strong_fraction_p_ge_2": "0.1518"
+    },
+    {
+      "layout": "random_net_80_07",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3563",
+      "mean_contacts": "0.8032",
+      "mean_max_contacts": "1.3687",
+      "strong_fraction_p_ge_2": "0.1487"
+    },
+    {
+      "layout": "random_net_80_04",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3563",
+      "mean_contacts": "0.7503",
+      "mean_max_contacts": "1.3313",
+      "strong_fraction_p_ge_2": "0.1496"
+    },
+    {
+      "layout": "random_net_80_00",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.3375",
+      "mean_contacts": "0.7245",
+      "mean_max_contacts": "1.3250",
+      "strong_fraction_p_ge_2": "0.1468"
+    }
+  ],
+  "outputs": {
+    "snapshot_scores": "high_capture_layout_scores.csv",
+    "dynamic_validation": "high_capture_dynamic_validation.csv",
+    "best_layout_coordinates": "high_capture_best_layouts.csv",
+    "score_plot": "high_capture_layout_scores.png",
+    "layout_plot": "high_capture_best_layouts.png"
+  },
+  "interpretation": [
+    "These layouts are intentionally aggressive and may be harder to fabricate because they use many aptamers.",
+    "Snapshot capture can approach or exceed 90%, but Brownian dynamic validation is the stricter test.",
+    "If dynamic validation remains below 90%, a single tile is probably not enough under sparse clinical EV assumptions."
+  ],
+  "multi_tile_projection": {
+    "assumption": "independent repeated copies of the best dynamic tile on the capture surface",
+    "best_single_tile_layout": {
+      "layout": "random_net_80_02",
+      "aptamer_count": "80",
+      "population_evs": "160",
+      "dynamic_capture_probability": "0.4062",
+      "mean_contacts": "0.9156",
+      "mean_max_contacts": "1.5312",
+      "strong_fraction_p_ge_2": "0.1848"
+    },
+    "copies_needed_for_90_percent": 5,
+    "projection_rows": [
+      {
+        "independent_tile_copies": 1,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.4062"
+      },
+      {
+        "independent_tile_copies": 2,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.6474"
+      },
+      {
+        "independent_tile_copies": 3,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.7906"
+      },
+      {
+        "independent_tile_copies": 4,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.8757"
+      },
+      {
+        "independent_tile_copies": 5,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.9262"
+      },
+      {
+        "independent_tile_copies": 6,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.9562"
+      },
+      {
+        "independent_tile_copies": 7,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.9740"
+      },
+      {
+        "independent_tile_copies": 8,
+        "single_tile_layout": "random_net_80_02",
+        "single_tile_capture_probability": "0.4062",
+        "projected_surface_capture_probability": "0.9845"
+      }
+    ]
+  }
+}

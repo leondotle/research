@@ -1,0 +1,35 @@
+{
+  "model": "coarse EV surface plus probabilistic aptamer-tether reach",
+  "linker_model_file": "linker_reach_models.csv",
+  "contact_threshold": 3,
+  "strong_contact_threshold": 6,
+  "surface_clearance_nm": 2.0,
+  "cd133_density_sites_per_1000_nm2": {
+    "low": 1.5,
+    "medium": 4.0,
+    "high": 8.0
+  },
+  "receptor_realizations": 8,
+  "binding_trials_per_realization": 16,
+  "receptor_occupancy": "finite one-to-one aptamer/CD133 matching",
+  "rng_seed": 20260525,
+  "best_overall": {
+    "layout": "dense_24",
+    "aptamer_count": "24",
+    "linker_constructs": "polyT20",
+    "ev_diameter_nm": "150",
+    "cd133_density": "high",
+    "receptor_count": "283",
+    "mean_contacts": "4.334",
+    "max_contacts": "21",
+    "p_at_least_3_contacts": "0.8121",
+    "p_at_least_6_contacts": "0.2681",
+    "capture_score": "0.5676"
+  },
+  "notes": [
+    "Scores are not binding free energies.",
+    "CD133 sites are randomly sampled on the lower EV hemisphere and cannot be reused by multiple aptamers in a single binding trial.",
+    "Current reach model uses oxDNA trajectories when present, otherwise WLC fallback.",
+    "Use LAMMPS or HOOMD-blue next for dynamic EV capture."
+  ]
+}

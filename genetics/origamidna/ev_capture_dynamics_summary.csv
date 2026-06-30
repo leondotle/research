@@ -1,0 +1,7 @@
+case,trajectories,ev_diameter_nm,cd133_density,receptor_count,capture_probability,mean_contacts,mean_last_quarter_contacts,mean_max_contacts,strong_contact_fraction,capture_dwell_fraction
+dense_24_polyT30,80,150,high,283,0.8375,7.044,7.276,11.963,0.5891,0.6254
+dense_24_polyT30,80,150,medium,141,0.8000,3.474,4.049,7.013,0.2954,0.4245
+random_24_polyT30,80,150,high,283,0.8250,5.855,6.623,10.075,0.5578,0.6134
+random_24_polyT30,80,150,medium,141,0.6250,2.448,2.557,5.188,0.1908,0.3281
+scrambled_dense_24_polyT30,80,150,high,283,0.0000,0.000,0.000,0.000,0.0000,0.0000
+scrambled_dense_24_polyT30,80,150,medium,141,0.0000,0.000,0.000,0.000,0.0000,0.0000

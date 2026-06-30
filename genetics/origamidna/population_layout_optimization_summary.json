@@ -1,0 +1,164 @@
+{
+  "model": "EV population generator plus evolutionary layout competition",
+  "rng_seed": 20260616,
+  "n_population_evs": 160,
+  "n_layouts_tested": 334,
+  "n_generations": 5,
+  "binding_trials_per_ev_offset": 10,
+  "lateral_offsets_nm": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      -14.0,
+      0.0
+    ],
+    [
+      14.0,
+      0.0
+    ],
+    [
+      0.0,
+      -10.0
+    ],
+    [
+      0.0,
+      10.0
+    ]
+  ],
+  "best_layout": {
+    "layout": "clinical_dense_24",
+    "aptamer_count": "24",
+    "population_score": "0.47507",
+    "capture_probability": "0.54000",
+    "p_at_least_2_contacts": "0.33000",
+    "mean_contacts": "1.53313",
+    "low_receptor_capture": "0.32979",
+    "clustered_capture": "0.27241",
+    "crowding_penalty": "0.01200"
+  },
+  "top_10_layouts": [
+    {
+      "layout": "clinical_dense_24",
+      "aptamer_count": "24",
+      "population_score": "0.47507",
+      "capture_probability": "0.54000",
+      "p_at_least_2_contacts": "0.33000",
+      "mean_contacts": "1.53313",
+      "low_receptor_capture": "0.32979",
+      "clustered_capture": "0.27241",
+      "crowding_penalty": "0.01200"
+    },
+    {
+      "layout": "clinical_grid_18",
+      "aptamer_count": "18",
+      "population_score": "0.46556",
+      "capture_probability": "0.52125",
+      "p_at_least_2_contacts": "0.32000",
+      "mean_contacts": "1.44000",
+      "low_receptor_capture": "0.30426",
+      "clustered_capture": "0.26724",
+      "crowding_penalty": "0.00000"
+    },
+    {
+      "layout": "clinical_grid_12",
+      "aptamer_count": "12",
+      "population_score": "0.45430",
+      "capture_probability": "0.51562",
+      "p_at_least_2_contacts": "0.31312",
+      "mean_contacts": "1.33375",
+      "low_receptor_capture": "0.31064",
+      "clustered_capture": "0.26034",
+      "crowding_penalty": "0.00000"
+    },
+    {
+      "layout": "evo_g2_clinical_grid_18_2",
+      "aptamer_count": "18",
+      "population_score": "0.45051",
+      "capture_probability": "0.51813",
+      "p_at_least_2_contacts": "0.31375",
+      "mean_contacts": "1.41687",
+      "low_receptor_capture": "0.31489",
+      "clustered_capture": "0.26207",
+      "crowding_penalty": "0.01200"
+    },
+    {
+      "layout": "evo_g2_evo_g1_clinical_grid_18_0_0",
+      "aptamer_count": "19",
+      "population_score": "0.44942",
+      "capture_probability": "0.52000",
+      "p_at_least_2_contacts": "0.30938",
+      "mean_contacts": "1.38188",
+      "low_receptor_capture": "0.31489",
+      "clustered_capture": "0.25345",
+      "crowding_penalty": "0.01000"
+    },
+    {
+      "layout": "evo_g1_clinical_grid_18_3",
+      "aptamer_count": "18",
+      "population_score": "0.44868",
+      "capture_probability": "0.52563",
+      "p_at_least_2_contacts": "0.31688",
+      "mean_contacts": "1.42688",
+      "low_receptor_capture": "0.32553",
+      "clustered_capture": "0.25862",
+      "crowding_penalty": "0.02000"
+    },
+    {
+      "layout": "clinical_hybrid_24",
+      "aptamer_count": "24",
+      "population_score": "0.44659",
+      "capture_probability": "0.51625",
+      "p_at_least_2_contacts": "0.31437",
+      "mean_contacts": "1.37375",
+      "low_receptor_capture": "0.31915",
+      "clustered_capture": "0.25000",
+      "crowding_penalty": "0.01200"
+    },
+    {
+      "layout": "evo_g5_clinical_grid_18_3",
+      "aptamer_count": "19",
+      "population_score": "0.44643",
+      "capture_probability": "0.52875",
+      "p_at_least_2_contacts": "0.31312",
+      "mean_contacts": "1.40750",
+      "low_receptor_capture": "0.32340",
+      "clustered_capture": "0.27586",
+      "crowding_penalty": "0.02200"
+    },
+    {
+      "layout": "evo_g4_clinical_grid_18_4",
+      "aptamer_count": "18",
+      "population_score": "0.44605",
+      "capture_probability": "0.51687",
+      "p_at_least_2_contacts": "0.31813",
+      "mean_contacts": "1.40688",
+      "low_receptor_capture": "0.31702",
+      "clustered_capture": "0.25517",
+      "crowding_penalty": "0.01600"
+    },
+    {
+      "layout": "evo_g5_clinical_grid_18_4",
+      "aptamer_count": "18",
+      "population_score": "0.44308",
+      "capture_probability": "0.52063",
+      "p_at_least_2_contacts": "0.31812",
+      "mean_contacts": "1.39500",
+      "low_receptor_capture": "0.31915",
+      "clustered_capture": "0.25345",
+      "crowding_penalty": "0.02000"
+    }
+  ],
+  "outputs": {
+    "scores": "population_layout_scores.csv",
+    "top_layout_coordinates": "population_optimized_layouts.csv",
+    "score_plot": "population_layout_top_scores.png",
+    "layout_plot": "population_optimized_layouts.png"
+  },
+  "interpretation": [
+    "This ranks layouts against a mixed EV population, not one ideal 73 nm vesicle.",
+    "The score rewards at least one contact, two-contact events, low-receptor EV capture, and clustered-receptor capture.",
+    "A small crowding penalty is included so overly packed layouts are not favored for free."
+  ]
+}

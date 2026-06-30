@@ -1,0 +1,277 @@
+{
+  "model": "repeated moderate-density DNA-origami capture tile field",
+  "rng_seed": 20260619,
+  "population_file": "ev_population_optimization_run.npz",
+  "capture_definition": "at least one aptamer/CD133 contact sustained for 1 second",
+  "best_field": {
+    "field": "clinical_grid_18_4x3_70nm",
+    "unit_layout": "clinical_grid_18",
+    "tile_copies": "12",
+    "aptamers_per_tile": "18",
+    "total_aptamers": "216",
+    "spacing_nm": "70",
+    "field_width_nm": "300",
+    "field_height_nm": "165",
+    "population_evs": "160",
+    "capture_probability": "0.3063",
+    "mean_contacts": "0.2779",
+    "mean_max_contacts": "0.8125",
+    "strong_fraction_p_ge_2": "0.0572"
+  },
+  "top_10_fields": [
+    {
+      "field": "clinical_grid_18_4x3_70nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "12",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "216",
+      "spacing_nm": "70",
+      "field_width_nm": "300",
+      "field_height_nm": "165",
+      "population_evs": "160",
+      "capture_probability": "0.3063",
+      "mean_contacts": "0.2779",
+      "mean_max_contacts": "0.8125",
+      "strong_fraction_p_ge_2": "0.0572"
+    },
+    {
+      "field": "clinical_grid_18_5x4_70nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "20",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "360",
+      "spacing_nm": "70",
+      "field_width_nm": "370",
+      "field_height_nm": "218",
+      "population_evs": "160",
+      "capture_probability": "0.3063",
+      "mean_contacts": "0.2686",
+      "mean_max_contacts": "0.8812",
+      "strong_fraction_p_ge_2": "0.0631"
+    },
+    {
+      "field": "clinical_dense_24_5x4_90nm",
+      "unit_layout": "clinical_dense_24",
+      "tile_copies": "20",
+      "aptamers_per_tile": "24",
+      "total_aptamers": "480",
+      "spacing_nm": "90",
+      "field_width_nm": "450",
+      "field_height_nm": "262",
+      "population_evs": "160",
+      "capture_probability": "0.3063",
+      "mean_contacts": "0.2961",
+      "mean_max_contacts": "0.8438",
+      "strong_fraction_p_ge_2": "0.0718"
+    },
+    {
+      "field": "clinical_dense_24_3x3_70nm",
+      "unit_layout": "clinical_dense_24",
+      "tile_copies": "9",
+      "aptamers_per_tile": "24",
+      "total_aptamers": "216",
+      "spacing_nm": "70",
+      "field_width_nm": "230",
+      "field_height_nm": "165",
+      "population_evs": "160",
+      "capture_probability": "0.2875",
+      "mean_contacts": "0.3776",
+      "mean_max_contacts": "0.9375",
+      "strong_fraction_p_ge_2": "0.0820"
+    },
+    {
+      "field": "clinical_grid_18_3x3_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "9",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "162",
+      "spacing_nm": "90",
+      "field_width_nm": "270",
+      "field_height_nm": "195",
+      "population_evs": "160",
+      "capture_probability": "0.2812",
+      "mean_contacts": "0.2408",
+      "mean_max_contacts": "0.7937",
+      "strong_fraction_p_ge_2": "0.0572"
+    },
+    {
+      "field": "clinical_grid_18_5x3_70nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "15",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "270",
+      "spacing_nm": "70",
+      "field_width_nm": "370",
+      "field_height_nm": "165",
+      "population_evs": "160",
+      "capture_probability": "0.2812",
+      "mean_contacts": "0.3780",
+      "mean_max_contacts": "0.8562",
+      "strong_fraction_p_ge_2": "0.0889"
+    },
+    {
+      "field": "clinical_grid_18_3x3_70nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "9",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "162",
+      "spacing_nm": "70",
+      "field_width_nm": "230",
+      "field_height_nm": "165",
+      "population_evs": "160",
+      "capture_probability": "0.2562",
+      "mean_contacts": "0.3566",
+      "mean_max_contacts": "0.9187",
+      "strong_fraction_p_ge_2": "0.0802"
+    },
+    {
+      "field": "clinical_grid_18_1x1_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "1",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "18",
+      "spacing_nm": "90",
+      "field_width_nm": "90",
+      "field_height_nm": "60",
+      "population_evs": "160",
+      "capture_probability": "0.2437",
+      "mean_contacts": "0.2451",
+      "mean_max_contacts": "0.7625",
+      "strong_fraction_p_ge_2": "0.0619"
+    },
+    {
+      "field": "clinical_grid_18_4x3_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "12",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "216",
+      "spacing_nm": "90",
+      "field_width_nm": "360",
+      "field_height_nm": "195",
+      "population_evs": "160",
+      "capture_probability": "0.2437",
+      "mean_contacts": "0.2549",
+      "mean_max_contacts": "0.6875",
+      "strong_fraction_p_ge_2": "0.0576"
+    },
+    {
+      "field": "clinical_dense_24_1x1_90nm",
+      "unit_layout": "clinical_dense_24",
+      "tile_copies": "1",
+      "aptamers_per_tile": "24",
+      "total_aptamers": "24",
+      "spacing_nm": "90",
+      "field_width_nm": "90",
+      "field_height_nm": "60",
+      "population_evs": "160",
+      "capture_probability": "0.2437",
+      "mean_contacts": "0.2780",
+      "mean_max_contacts": "0.7438",
+      "strong_fraction_p_ge_2": "0.0648"
+    }
+  ],
+  "spacing_interpretation": [
+    "Increasing field size helps only when the field has enough tile copies to avoid big gaps.",
+    "Wider spacing lowers aptamer density and can create miss zones.",
+    "Closer spacing improves capture in this model, but real fabrication may need spacing to avoid steric and electrostatic crowding."
+  ],
+  "outputs": {
+    "summary_csv": "multitile_capture_field_summary.csv",
+    "top_layout_coordinates": "multitile_capture_field_layouts.csv",
+    "score_plot": "multitile_capture_field_scores.png",
+    "layout_plot": "multitile_capture_field_layouts.png"
+  },
+  "near_surface_encounter_projection": {
+    "assumption": "same EV receives repeated independent near-surface chances over the capture field, as in recirculation, bead mixing, or a longer microfluidic channel",
+    "best_single_encounter_field": {
+      "field": "clinical_grid_18_4x3_70nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "12",
+      "aptamers_per_tile": "18",
+      "total_aptamers": "216",
+      "spacing_nm": "70",
+      "field_width_nm": "300",
+      "field_height_nm": "165",
+      "population_evs": "160",
+      "capture_probability": "0.3063",
+      "mean_contacts": "0.2779",
+      "mean_max_contacts": "0.8125",
+      "strong_fraction_p_ge_2": "0.0572"
+    },
+    "encounters_needed_for_90_percent": 7,
+    "projection_rows": [
+      {
+        "near_surface_encounters": 1,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.3063"
+      },
+      {
+        "near_surface_encounters": 2,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.5188"
+      },
+      {
+        "near_surface_encounters": 3,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.6662"
+      },
+      {
+        "near_surface_encounters": 4,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.7684"
+      },
+      {
+        "near_surface_encounters": 5,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.8394"
+      },
+      {
+        "near_surface_encounters": 6,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.8886"
+      },
+      {
+        "near_surface_encounters": 7,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9227"
+      },
+      {
+        "near_surface_encounters": 8,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9464"
+      },
+      {
+        "near_surface_encounters": 9,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9628"
+      },
+      {
+        "near_surface_encounters": 10,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9742"
+      },
+      {
+        "near_surface_encounters": 11,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9821"
+      },
+      {
+        "near_surface_encounters": 12,
+        "best_field": "clinical_grid_18_4x3_70nm",
+        "single_encounter_capture_probability": "0.3063",
+        "projected_cumulative_capture_probability": "0.9876"
+      }
+    ]
+  }
+}

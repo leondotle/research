@@ -1,0 +1,42 @@
+{
+  "aptamer": "A15",
+  "trajectory": "sim_aptamer_A15_restrained/trajectory.dat",
+  "source": "restrained",
+  "stem_pairs_1based": [
+    [
+      1,
+      15
+    ],
+    [
+      2,
+      14
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      4,
+      12
+    ]
+  ],
+  "stem_closed_distance_nm": 1.5,
+  "n_frames": 500,
+  "stem_closed_fraction": 0.634,
+  "pair_distance_mean_nm": {
+    "1-15": 1.2154383872869052,
+    "2-14": 1.179939915693063,
+    "3-13": 1.1845857526345491,
+    "4-12": 1.2286284808167114
+  },
+  "pair_distance_p90_nm": {
+    "1-15": 1.553578276142105,
+    "2-14": 1.4872918698349251,
+    "3-13": 1.4990435946280778,
+    "4-12": 1.5435749732372455
+  },
+  "head_reach_mean_nm": 2.169778169921421,
+  "head_reach_p10_nm": 1.6349354927100666,
+  "head_reach_p50_nm": 2.158034337553762,
+  "head_reach_p90_nm": 2.7230632143232625
+}

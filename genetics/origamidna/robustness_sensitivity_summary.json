@@ -1,0 +1,105 @@
+{
+  "model": "Monte Carlo robustness and sensitivity screen",
+  "rng_seed": 20260627,
+  "scenarios": 80,
+  "evs_per_scenario": 24,
+  "layout_ranking_rule": "highest 10th-percentile useful score, then highest median",
+  "best_robust_layout": {
+    "layout": "clinical_rescue_24",
+    "aptamer_count": "24",
+    "median_single_capture": "0.1667",
+    "median_target_capture": "0.8288",
+    "median_useful_score": "0.6374",
+    "p10_useful_score": "0.3965",
+    "p90_useful_score": "0.7709",
+    "probability_useful_ge_0_80": "0.0500",
+    "failure_probability_below_0_50": "0.2500",
+    "median_best_encounters": "10.0"
+  },
+  "layout_summary": [
+    {
+      "layout": "clinical_rescue_24",
+      "aptamer_count": "24",
+      "median_single_capture": "0.1667",
+      "median_target_capture": "0.8288",
+      "median_useful_score": "0.6374",
+      "p10_useful_score": "0.3965",
+      "p90_useful_score": "0.7709",
+      "probability_useful_ge_0_80": "0.0500",
+      "failure_probability_below_0_50": "0.2500",
+      "median_best_encounters": "10.0"
+    },
+    {
+      "layout": "clinical_hybrid_24",
+      "aptamer_count": "24",
+      "median_single_capture": "0.1667",
+      "median_target_capture": "0.8180",
+      "median_useful_score": "0.6475",
+      "p10_useful_score": "0.3960",
+      "p90_useful_score": "0.7820",
+      "probability_useful_ge_0_80": "0.0625",
+      "failure_probability_below_0_50": "0.2250",
+      "median_best_encounters": "10.0"
+    },
+    {
+      "layout": "clinical_grid_18",
+      "aptamer_count": "18",
+      "median_single_capture": "0.1250",
+      "median_target_capture": "0.6998",
+      "median_useful_score": "0.5786",
+      "p10_useful_score": "0.2732",
+      "p90_useful_score": "0.7340",
+      "probability_useful_ge_0_80": "0.0375",
+      "failure_probability_below_0_50": "0.3375",
+      "median_best_encounters": "10.0"
+    },
+    {
+      "layout": "clinical_grid_12",
+      "aptamer_count": "12",
+      "median_single_capture": "0.1250",
+      "median_target_capture": "0.6728",
+      "median_useful_score": "0.5583",
+      "p10_useful_score": "0.2682",
+      "p90_useful_score": "0.7708",
+      "probability_useful_ge_0_80": "0.0625",
+      "failure_probability_below_0_50": "0.4875",
+      "median_best_encounters": "10.0"
+    },
+    {
+      "layout": "clinical_dense_24",
+      "aptamer_count": "24",
+      "median_single_capture": "0.1667",
+      "median_target_capture": "0.7815",
+      "median_useful_score": "0.5771",
+      "p10_useful_score": "0.2608",
+      "p90_useful_score": "0.7443",
+      "probability_useful_ge_0_80": "0.0125",
+      "failure_probability_below_0_50": "0.3750",
+      "median_best_encounters": "10.0"
+    }
+  ],
+  "winner_parameter_correlations": {
+    "mean_diameter_nm": 0.032442569151429915,
+    "mean_receptors": 0.2515002344116269,
+    "active_aptamer_fraction": 0.11364275668073137,
+    "linker_reach_multiplier": 0.5087435536802626,
+    "diffusion_nm2_per_s": 0.010126582278481013,
+    "k_on_per_step": 0.11788560712611346,
+    "k_off_per_s": -0.061837787154242846,
+    "nonspecific_per_encounter": -0.3938818565400844,
+    "damage_per_encounter": 0.11828410689170182,
+    "activity_loss_per_encounter": -0.12372245663384906
+  },
+  "important_limitations": [
+    "The uncertainty ranges are plausible modeling assumptions, not measured experimental constants.",
+    "Repeated encounters are projected from one Brownian encounter and assume encounters are independent.",
+    "Aptamer deactivation is random; fabrication may create spatially patterned failures.",
+    "The results compare designs and do not prove a laboratory capture percentage."
+  ],
+  "outputs": {
+    "all_results": "robustness_sensitivity_results.csv",
+    "layout_summary": "robustness_layout_summary.csv",
+    "layout_plot": "robustness_layout_comparison.png",
+    "sensitivity_plot": "robustness_parameter_sensitivity.png"
+  }
+}

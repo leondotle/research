@@ -1,0 +1,27 @@
+{
+  "model": "clinical CD133+ EV population generator",
+  "n_evs": 160,
+  "rng_seed": 20260615,
+  "diameter_nm": {
+    "mean": 73.3486933997277,
+    "p10": 59.55868878141823,
+    "p50": 73.43601892994894,
+    "p90": 88.93619568592288
+  },
+  "receptor_count": {
+    "mean": 6.3625,
+    "p10": 2.0,
+    "p50": 6.0,
+    "p90": 11.099999999999994
+  },
+  "pattern_counts": {
+    "bottom_cap": 20,
+    "random": 65,
+    "single_cluster": 43,
+    "two_cluster": 32
+  },
+  "outputs": {
+    "metadata_csv": "ev_population_clinical.csv",
+    "receptor_points_npz": "ev_population_clinical.npz"
+  }
+}

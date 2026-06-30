@@ -1,0 +1,9 @@
+layout,aptamer_count,population_evs,dynamic_capture_probability,mean_contacts,mean_max_contacts,strong_fraction_p_ge_2
+random_net_80_02,80,160,0.4062,0.9156,1.5312,0.1848
+random_net_80_01,80,160,0.3937,0.8878,1.4937,0.1650
+random_net_80_14,80,160,0.3750,0.8717,1.4688,0.1705
+random_net_80_09,80,160,0.3625,0.7067,1.3938,0.1428
+random_net_60_03,60,160,0.3625,0.7368,1.3250,0.1518
+random_net_80_07,80,160,0.3563,0.8032,1.3687,0.1487
+random_net_80_04,80,160,0.3563,0.7503,1.3313,0.1496
+random_net_80_00,80,160,0.3375,0.7245,1.3250,0.1468

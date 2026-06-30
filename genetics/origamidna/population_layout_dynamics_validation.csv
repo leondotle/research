@@ -1,0 +1,7 @@
+layout,aptamer_count,population_evs,capture_probability_p_ge_1_dwell,mean_contacts,mean_max_contacts,strong_fraction_p_ge_2
+clinical_dense_24,24,160,0.2750,0.3649,0.9187,0.0711
+clinical_grid_12,12,160,0.2562,0.3232,0.8313,0.0752
+clinical_grid_18,18,160,0.2500,0.2947,0.7438,0.0658
+evo_g2_evo_g1_clinical_grid_18_0_0,19,160,0.2437,0.4037,0.8812,0.0761
+evo_g2_clinical_grid_18_2,18,160,0.2313,0.3083,0.7688,0.0766
+evo_g1_clinical_grid_18_3,18,160,0.1938,0.2419,0.6937,0.0482

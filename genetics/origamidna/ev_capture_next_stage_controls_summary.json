@@ -1,0 +1,64 @@
+{
+  "model": "next-stage linker sensitivity plus dense_24 controls",
+  "rng_seed": 20260727,
+  "linker_constructs": [
+    "polyT15",
+    "polyT20",
+    "polyT30"
+  ],
+  "random_control_replicates": 50,
+  "outputs": {
+    "linker_sensitivity": "ev_capture_linker_sensitivity.csv",
+    "dense24_random_controls": "ev_capture_dense24_random_controls_50rep.csv",
+    "scrambled_controls": "ev_capture_scrambled_controls.csv"
+  },
+  "best_overall_sensitivity_case": {
+    "layout": "dense_24",
+    "aptamer_count": "24",
+    "linker_construct": "polyT30",
+    "ev_diameter_nm": "150",
+    "cd133_density": "high",
+    "receptor_count": "283",
+    "mean_contacts": "7.850",
+    "max_contacts": "24",
+    "p_at_least_3_contacts": "0.9870",
+    "p_at_least_6_contacts": "0.7853",
+    "capture_score": "0.9152"
+  },
+  "best_dense24_medium_density_case": {
+    "layout": "dense_24",
+    "aptamer_count": "24",
+    "linker_construct": "polyT30",
+    "ev_diameter_nm": "150",
+    "cd133_density": "medium",
+    "receptor_count": "141",
+    "mean_contacts": "4.433",
+    "max_contacts": "20",
+    "p_at_least_3_contacts": "0.8082",
+    "p_at_least_6_contacts": "0.2880",
+    "capture_score": "0.5753"
+  },
+  "top_random_control": {
+    "control": "random_matched_24_polyT30",
+    "aptamer_count": "24",
+    "linker_construct": "polyT30",
+    "replicates": "50",
+    "ev_diameter_nm": "150",
+    "cd133_density": "high",
+    "receptor_count": "283",
+    "mean_contacts": "5.539",
+    "max_contacts": "21",
+    "p_at_least_3_contacts": "0.9192",
+    "p_at_least_6_contacts": "0.4866",
+    "capture_score": "0.7224",
+    "capture_score_sd": "0.0773",
+    "matched_design": "dense_24",
+    "matched_design_score": "0.9152",
+    "score_delta_vs_matched_design": "0.1928"
+  },
+  "interpretation": [
+    "Linker sensitivity keeps aptamer count and coordinates fixed while swapping all anchors to one linker construct.",
+    "Matched random controls are focused on dense_24 because it is the current lead design and the fabrication go/no-go candidate.",
+    "Scrambled/nonbinding controls are represented as zero receptor-specific binding activity; they are report-schema controls, not geometry controls."
+  ]
+}

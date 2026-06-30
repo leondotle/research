@@ -1,0 +1,126 @@
+{
+  "model": "clinical sparse 73 nm EV static reach screen",
+  "ev_diameter_nm": 73.0,
+  "fixed_receptor_counts": [
+    2,
+    5,
+    10
+  ],
+  "linker_constructs": [
+    "polyT10",
+    "polyT15",
+    "polyT20",
+    "polyT30"
+  ],
+  "random_control_replicates": 12,
+  "scoring_resolution": {
+    "lateral_step_nm": 8.0,
+    "receptor_realizations": 4,
+    "binding_trials_per_realization": 8
+  },
+  "rng_seed": 20260929,
+  "outputs": {
+    "designed_scores": "ev_capture_clinical_73nm_scores.csv",
+    "random_controls": "ev_capture_clinical_73nm_random_controls.csv",
+    "score_plot": "ev_capture_clinical_73nm_scores.png"
+  },
+  "best_by_receptor_count": {
+    "2": {
+      "layout": "clinical_hybrid_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "2",
+      "mean_contacts": "0.163",
+      "max_contacts": "2",
+      "p_at_least_1_contact": "0.1556",
+      "p_at_least_2_contacts": "0.0077",
+      "p_at_least_3_contacts": "0.0000",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0041",
+      "clinical_sparse_score": "0.0700"
+    },
+    "5": {
+      "layout": "clinical_hybrid_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "5",
+      "mean_contacts": "0.402",
+      "max_contacts": "3",
+      "p_at_least_1_contact": "0.3457",
+      "p_at_least_2_contacts": "0.0478",
+      "p_at_least_3_contacts": "0.0089",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0141",
+      "clinical_sparse_score": "0.1678"
+    },
+    "10": {
+      "layout": "clinical_hybrid_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "10",
+      "mean_contacts": "0.808",
+      "max_contacts": "5",
+      "p_at_least_1_contact": "0.5797",
+      "p_at_least_2_contacts": "0.1811",
+      "p_at_least_3_contacts": "0.0440",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0400",
+      "clinical_sparse_score": "0.3220"
+    }
+  },
+  "dense24_polyT30_rows": [
+    {
+      "layout": "dense_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "2",
+      "mean_contacts": "0.152",
+      "max_contacts": "2",
+      "p_at_least_1_contact": "0.1499",
+      "p_at_least_2_contacts": "0.0019",
+      "p_at_least_3_contacts": "0.0000",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0038",
+      "clinical_sparse_score": "0.0656"
+    },
+    {
+      "layout": "dense_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "5",
+      "mean_contacts": "0.382",
+      "max_contacts": "4",
+      "p_at_least_1_contact": "0.3425",
+      "p_at_least_2_contacts": "0.0389",
+      "p_at_least_3_contacts": "0.0006",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0098",
+      "clinical_sparse_score": "0.1615"
+    },
+    {
+      "layout": "dense_24",
+      "aptamer_count": "24",
+      "linker_construct": "polyT30",
+      "ev_diameter_nm": "73",
+      "receptor_count": "10",
+      "mean_contacts": "0.809",
+      "max_contacts": "5",
+      "p_at_least_1_contact": "0.5765",
+      "p_at_least_2_contacts": "0.1818",
+      "p_at_least_3_contacts": "0.0408",
+      "p_at_least_6_contacts": "0.0000",
+      "legacy_capture_score": "0.0386",
+      "clinical_sparse_score": "0.3203"
+    }
+  ],
+  "interpretation": [
+    "Exact receptor counts replace the previous density-derived receptor estimates.",
+    "Clinical sparse score emphasizes P>=1, P>=2, and P>=3 contacts because P>=6 is usually unrealistic with 2-10 receptors.",
+    "Sparse contact probabilities are sampled from the same finite one-to-one aptamer/CD133 trials as the original p>=3 and p>=6 metrics."
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "model": "real-world useful capture penalty model",
+  "input_field_summary": "multitile_capture_field_summary.csv",
+  "scenarios": {
+    "clean_buffer": {
+      "nonspecific_per_encounter": 0.015,
+      "damage_per_encounter": 0.005,
+      "activity_loss_per_encounter": 0.01,
+      "false_capture_weight": 0.35,
+      "damage_weight": 0.25
+    },
+    "moderate_background": {
+      "nonspecific_per_encounter": 0.035,
+      "damage_per_encounter": 0.01,
+      "activity_loss_per_encounter": 0.02,
+      "false_capture_weight": 0.45,
+      "damage_weight": 0.3
+    },
+    "dirty_biofluid_like": {
+      "nonspecific_per_encounter": 0.07,
+      "damage_per_encounter": 0.02,
+      "activity_loss_per_encounter": 0.04,
+      "false_capture_weight": 0.6,
+      "damage_weight": 0.4
+    }
+  },
+  "best_by_scenario": {
+    "clean_buffer": {
+      "scenario": "clean_buffer",
+      "field": "clinical_grid_18_1x1_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "1",
+      "total_aptamers": "18",
+      "spacing_nm": "90",
+      "encounters": "10",
+      "single_encounter_target_capture": "0.2437",
+      "target_capture_after_encounters": "0.9296",
+      "false_capture_risk": "0.0124",
+      "damage_or_loss_risk": "0.0489",
+      "useful_capture_score": "0.9142"
+    },
+    "moderate_background": {
+      "scenario": "moderate_background",
+      "field": "clinical_grid_18_1x1_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "1",
+      "total_aptamers": "18",
+      "spacing_nm": "90",
+      "encounters": "10",
+      "single_encounter_target_capture": "0.2437",
+      "target_capture_after_encounters": "0.9198",
+      "false_capture_risk": "0.0288",
+      "damage_or_loss_risk": "0.0956",
+      "useful_capture_score": "0.8818"
+    },
+    "dirty_biofluid_like": {
+      "scenario": "dirty_biofluid_like",
+      "field": "clinical_grid_18_1x1_90nm",
+      "unit_layout": "clinical_grid_18",
+      "tile_copies": "1",
+      "total_aptamers": "18",
+      "spacing_nm": "90",
+      "encounters": "10",
+      "single_encounter_target_capture": "0.2437",
+      "target_capture_after_encounters": "0.8986",
+      "false_capture_risk": "0.0568",
+      "damage_or_loss_risk": "0.1829",
+      "useful_capture_score": "0.8044"
+    }
+  },
+  "outputs": {
+    "tradeoff_scores": "real_world_tradeoff_scores.csv",
+    "tradeoff_plot": "real_world_tradeoff_scores.png"
+  },
+  "interpretation": [
+    "Target capture rises with repeated encounters, but false capture, sample damage, and aptamer activity loss also rise.",
+    "Clean buffer can tolerate more repeated encounters than dirty biofluid-like conditions.",
+    "These are scenario penalties, not measured constants; they should be replaced with experimental controls when available."
+  ]
+}

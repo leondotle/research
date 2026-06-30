@@ -1,0 +1,78 @@
+{
+  "model": "joint layout, spacer/surface formulation, and staged-zone search",
+  "reliable_90_definition": "10th-percentile useful capture is at least 0.90",
+  "scenarios": 36,
+  "evs_per_scenario": 18,
+  "designs_tested": 32,
+  "formulation_assumptions": {
+    "polyT30_standard": {
+      "reach_multiplier": 1.0,
+      "active_fraction_bonus": 0.0,
+      "kon_multiplier": 1.0,
+      "koff_multiplier": 1.0,
+      "nonspecific_multiplier": 1.0,
+      "activity_loss_multiplier": 1.0,
+      "damage_multiplier": 1.0,
+      "description": "Current polyT30 spacer and unmodified modeled surface."
+    },
+    "polyT30_PEG_passivated": {
+      "reach_multiplier": 1.0,
+      "active_fraction_bonus": 0.08,
+      "kon_multiplier": 1.0,
+      "koff_multiplier": 1.0,
+      "nonspecific_multiplier": 0.45,
+      "activity_loss_multiplier": 0.7,
+      "damage_multiplier": 0.8,
+      "description": "polyT30 with an assumed PEG-like antifouling surface."
+    },
+    "rigid_spacer_PEG": {
+      "reach_multiplier": 1.25,
+      "active_fraction_bonus": 0.08,
+      "kon_multiplier": 0.95,
+      "koff_multiplier": 0.9,
+      "nonspecific_multiplier": 0.5,
+      "activity_loss_multiplier": 0.65,
+      "damage_multiplier": 0.8,
+      "description": "Longer, more upright modeled spacer on a PEG-like surface."
+    },
+    "mixed_spacer_antifouling": {
+      "reach_multiplier": 1.15,
+      "active_fraction_bonus": 0.12,
+      "kon_multiplier": 1.05,
+      "koff_multiplier": 0.85,
+      "nonspecific_multiplier": 0.3,
+      "activity_loss_multiplier": 0.5,
+      "damage_multiplier": 0.65,
+      "description": "Optimistic mixed-length spacer plus strong antifouling layer."
+    }
+  },
+  "best_design": {
+    "layout": "triple_ring_24",
+    "formulation": "mixed_spacer_antifouling",
+    "aptamer_count": "24",
+    "median_single_capture": "0.2778",
+    "median_target_capture": "0.9671",
+    "p10_target_capture": "0.9207",
+    "median_useful_capture": "0.8603",
+    "p10_useful_capture": "0.7791",
+    "fraction_useful_ge_90": "0.2778",
+    "fraction_target_ge_90": "0.9167",
+    "median_best_zones": "12.0",
+    "reliable_90_useful": "no"
+  },
+  "reliable_90_design_count": 0,
+  "reliable_90_designs": [],
+  "limitations": [
+    "Formulation multipliers are hypotheses, not experimental measurements.",
+    "The same A15 recognition sequence is modeled throughout; this does not compare validated aptamer sequences.",
+    "Capture zones are treated as approximately independent opportunities during one surface pass.",
+    "A 90% simulated score is a design target, not proof of 90% laboratory or clinical performance."
+  ],
+  "outputs": {
+    "all_results": "advanced_capture_design_results.csv",
+    "ranked_summary": "advanced_capture_design_summary.csv",
+    "top_layout_coordinates": "advanced_capture_top_layouts.csv",
+    "reliability_plot": "advanced_capture_reliability.png",
+    "layout_plot": "advanced_capture_top_layouts.png"
+  }
+}

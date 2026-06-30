@@ -1,0 +1,35 @@
+{
+  "model": "inverse requirements for reliable useful capture",
+  "target_useful_capture": 0.9,
+  "reliability_definition": "10th-percentile useful capture across stress-test scenarios",
+  "best_path": {
+    "layout": "triple_ring_24",
+    "formulation": "mixed_spacer_antifouling",
+    "baseline_p10_target": "0.9207",
+    "baseline_p10_false_risk": "0.1059",
+    "baseline_p10_useful": "0.7791",
+    "background_reduction_needed_alone": "0.9700",
+    "wash_removal_needed_alone": "not_achievable_in_range",
+    "contact_boost_needed_alone": "not_achievable_in_range",
+    "combined_contact_boost": "0.1000",
+    "combined_background_reduction": "0.8400",
+    "combined_p10_useful": "0.9003",
+    "combined_total_change": "0.9400"
+  },
+  "interpretation": {
+    "background_reduction": "Fraction of current nonspecific binding that must be prevented or removed.",
+    "contact_boost": "Fractional extra independent binding opportunity; 1.0 approximates a second equally strong independent route.",
+    "wash_removal": "Fraction of nonspecific material removed, assuming no more than 2% target loss at the strongest wash."
+  },
+  "important_limitations": [
+    "The calculator works backward from simulated outcomes, not laboratory measurements.",
+    "Contact boost is a generic requirement and does not prove that a specific second aptamer will provide it.",
+    "Background reduction may come from passivation, washing, blocking buffer, or a combination.",
+    "The model does not include every possible interaction in patient biofluid."
+  ],
+  "outputs": {
+    "requirements": "inverse_design_requirements.csv",
+    "tradeoff_frontier": "inverse_design_tradeoff_frontier.csv",
+    "requirements_plot": "inverse_design_requirements.png"
+  }
+}

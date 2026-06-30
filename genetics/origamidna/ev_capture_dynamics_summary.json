@@ -1,0 +1,129 @@
+{
+  "model": "minimal Brownian EV capture dynamics",
+  "rng_seed": 20260828,
+  "lead_design": "dense_24/polyT30",
+  "ev_diameters_nm": [
+    150.0
+  ],
+  "cd133_densities": [
+    "medium",
+    "high"
+  ],
+  "trajectories_per_case": 80,
+  "steps": 600,
+  "dt_seconds": 0.05,
+  "capture_definition": {
+    "contact_threshold": 3,
+    "required_dwell_seconds": 1.0,
+    "strong_contact_threshold": 6
+  },
+  "kinetic_assumptions": {
+    "k_on_per_step_multiplier": 0.18,
+    "k_off_per_s": 0.12,
+    "free_diffusion_nm2_per_s": 35.0,
+    "binding_activity_scrambled": 0.0
+  },
+  "outputs": {
+    "trajectory_contacts": "ev_capture_dynamics_trajectories.csv",
+    "summary_table": "ev_capture_dynamics_summary.csv",
+    "mean_contact_plot": "ev_capture_dynamics_contacts.png"
+  },
+  "best_capture_probability_case": {
+    "case": "dense_24_polyT30",
+    "trajectories": "80",
+    "ev_diameter_nm": "150",
+    "cd133_density": "high",
+    "receptor_count": "283",
+    "capture_probability": "0.8375",
+    "mean_contacts": "7.044",
+    "mean_last_quarter_contacts": "7.276",
+    "mean_max_contacts": "11.963",
+    "strong_contact_fraction": "0.5891",
+    "capture_dwell_fraction": "0.6254"
+  },
+  "summary_rows": [
+    {
+      "case": "dense_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "high",
+      "receptor_count": "283",
+      "capture_probability": "0.8375",
+      "mean_contacts": "7.044",
+      "mean_last_quarter_contacts": "7.276",
+      "mean_max_contacts": "11.963",
+      "strong_contact_fraction": "0.5891",
+      "capture_dwell_fraction": "0.6254"
+    },
+    {
+      "case": "dense_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "medium",
+      "receptor_count": "141",
+      "capture_probability": "0.8000",
+      "mean_contacts": "3.474",
+      "mean_last_quarter_contacts": "4.049",
+      "mean_max_contacts": "7.013",
+      "strong_contact_fraction": "0.2954",
+      "capture_dwell_fraction": "0.4245"
+    },
+    {
+      "case": "random_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "high",
+      "receptor_count": "283",
+      "capture_probability": "0.8250",
+      "mean_contacts": "5.855",
+      "mean_last_quarter_contacts": "6.623",
+      "mean_max_contacts": "10.075",
+      "strong_contact_fraction": "0.5578",
+      "capture_dwell_fraction": "0.6134"
+    },
+    {
+      "case": "random_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "medium",
+      "receptor_count": "141",
+      "capture_probability": "0.6250",
+      "mean_contacts": "2.448",
+      "mean_last_quarter_contacts": "2.557",
+      "mean_max_contacts": "5.188",
+      "strong_contact_fraction": "0.1908",
+      "capture_dwell_fraction": "0.3281"
+    },
+    {
+      "case": "scrambled_dense_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "high",
+      "receptor_count": "283",
+      "capture_probability": "0.0000",
+      "mean_contacts": "0.000",
+      "mean_last_quarter_contacts": "0.000",
+      "mean_max_contacts": "0.000",
+      "strong_contact_fraction": "0.0000",
+      "capture_dwell_fraction": "0.0000"
+    },
+    {
+      "case": "scrambled_dense_24_polyT30",
+      "trajectories": "80",
+      "ev_diameter_nm": "150",
+      "cd133_density": "medium",
+      "receptor_count": "141",
+      "capture_probability": "0.0000",
+      "mean_contacts": "0.000",
+      "mean_last_quarter_contacts": "0.000",
+      "mean_max_contacts": "0.000",
+      "strong_contact_fraction": "0.0000",
+      "capture_dwell_fraction": "0.0000"
+    }
+  ],
+  "notes": [
+    "This model is for relative design/control comparison, not physical kinetic parameter inference.",
+    "Random_24 results are aggregated over 12 matched random dense 24-anchor layouts.",
+    "Scrambled controls preserve the same geometry but set receptor-specific binding activity to zero."
+  ]
+}

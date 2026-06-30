@@ -1,0 +1,28 @@
+{
+  "model": "matched random aptamer-position controls on the same 90 x 60 nm tile",
+  "control_seed": 20260626,
+  "replicates_per_aptamer_count": 4,
+  "control_output": "ev_capture_random_layout_controls.csv",
+  "top_control": {
+    "control": "random_matched_24",
+    "aptamer_count": "24",
+    "replicates": "4",
+    "ev_diameter_nm": "150",
+    "cd133_density": "high",
+    "receptor_count": "283",
+    "mean_contacts": "2.754",
+    "max_contacts": "16",
+    "p_at_least_3_contacts": "0.5255",
+    "p_at_least_6_contacts": "0.0612",
+    "capture_score": "0.3267",
+    "capture_score_sd": "0.0647",
+    "best_matched_design": "dense_24",
+    "best_matched_design_score": "0.5676",
+    "score_delta_vs_best_matched_design": "0.2409"
+  },
+  "notes": [
+    "Controls use the same polyT20/A15 reach model and finite-receptor EV scorer as the designed layouts.",
+    "Controls randomize anchor positions but do not model scrambled/nonbinding aptamer chemistry.",
+    "Positive score deltas mean the best designed layout for the same aptamer count, EV size, and density outscored the matched random control."
+  ]
+}

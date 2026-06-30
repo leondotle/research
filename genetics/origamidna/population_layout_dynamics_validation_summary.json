@@ -1,0 +1,76 @@
+{
+  "model": "Brownian validation of top population-optimized layouts",
+  "rng_seed": 20260617,
+  "top_layouts_validated": 6,
+  "steps": 360,
+  "dt_seconds": 0.05,
+  "capture_definition": "at least one contact for 1 second",
+  "best_layout": {
+    "layout": "clinical_dense_24",
+    "aptamer_count": "24",
+    "population_evs": "160",
+    "capture_probability_p_ge_1_dwell": "0.2750",
+    "mean_contacts": "0.3649",
+    "mean_max_contacts": "0.9187",
+    "strong_fraction_p_ge_2": "0.0711"
+  },
+  "summary_rows": [
+    {
+      "layout": "clinical_dense_24",
+      "aptamer_count": "24",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.2750",
+      "mean_contacts": "0.3649",
+      "mean_max_contacts": "0.9187",
+      "strong_fraction_p_ge_2": "0.0711"
+    },
+    {
+      "layout": "clinical_grid_12",
+      "aptamer_count": "12",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.2562",
+      "mean_contacts": "0.3232",
+      "mean_max_contacts": "0.8313",
+      "strong_fraction_p_ge_2": "0.0752"
+    },
+    {
+      "layout": "clinical_grid_18",
+      "aptamer_count": "18",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.2500",
+      "mean_contacts": "0.2947",
+      "mean_max_contacts": "0.7438",
+      "strong_fraction_p_ge_2": "0.0658"
+    },
+    {
+      "layout": "evo_g2_evo_g1_clinical_grid_18_0_0",
+      "aptamer_count": "19",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.2437",
+      "mean_contacts": "0.4037",
+      "mean_max_contacts": "0.8812",
+      "strong_fraction_p_ge_2": "0.0761"
+    },
+    {
+      "layout": "evo_g2_clinical_grid_18_2",
+      "aptamer_count": "18",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.2313",
+      "mean_contacts": "0.3083",
+      "mean_max_contacts": "0.7688",
+      "strong_fraction_p_ge_2": "0.0766"
+    },
+    {
+      "layout": "evo_g1_clinical_grid_18_3",
+      "aptamer_count": "18",
+      "population_evs": "160",
+      "capture_probability_p_ge_1_dwell": "0.1938",
+      "mean_contacts": "0.2419",
+      "mean_max_contacts": "0.6937",
+      "strong_fraction_p_ge_2": "0.0482"
+    }
+  ],
+  "outputs": {
+    "summary_csv": "population_layout_dynamics_validation.csv"
+  }
+}

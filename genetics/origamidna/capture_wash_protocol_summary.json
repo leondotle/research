@@ -1,0 +1,51 @@
+{
+  "model": "kinetic capture-and-wash protocol optimizer",
+  "reliable_90_definition": "10th-percentile useful capture is at least 0.90",
+  "wash_strength_definition": "dimensionless relative strength; 1.0 is a moderate reference wash",
+  "kinetic_assumptions": {
+    "target_koff_range_per_s": [
+      0.00015,
+      0.0015
+    ],
+    "background_koff_range_per_s": [
+      0.01,
+      0.08
+    ],
+    "maximum_flow_damage_per_cycle": 0.004
+  },
+  "protocols_evaluated_per_design": 10240,
+  "designs_evaluated": 32,
+  "best_protocol": {
+    "layout": "triple_ring_24",
+    "formulation": "mixed_spacer_antifouling",
+    "passivation_effectiveness": "0.30",
+    "wash_strength_relative": "1.25",
+    "wash_duration_seconds": "30",
+    "wash_cycles": "1",
+    "contact_boost": "0.30",
+    "p10_useful_capture": "0.9005",
+    "median_useful_capture": "0.9336",
+    "p10_target_retained": "0.9357",
+    "median_target_retained": "0.9645",
+    "p90_background_remaining": "0.0784",
+    "median_background_remaining": "0.0326",
+    "median_target_wash_survival": "0.9864",
+    "median_background_removal": "0.7289",
+    "reliable_90_fraction": "0.8889",
+    "protocol_cost_index": "0.4400",
+    "reliable_90": "yes"
+  },
+  "reliable_design_count": 5,
+  "limitations": [
+    "Wash strength cannot be converted to a laboratory flow rate until bond lifetimes are measured.",
+    "Target and background off-rate ranges are explicit assumptions, not measured values.",
+    "The model assumes bound populations decay exponentially during each wash.",
+    "A simulated 90% result is a protocol hypothesis, not experimental validation."
+  ],
+  "outputs": {
+    "selected_protocols": "capture_wash_protocol_results.csv",
+    "best_by_design": "capture_wash_protocol_best.csv",
+    "comparison_plot": "capture_wash_protocol_comparison.png",
+    "tradeoff_plot": "capture_wash_protocol_tradeoff.png"
+  }
+}
