@@ -1,0 +1,4 @@
+source_layout,optimized_layout,aptamer_count,up_facing_aptamers,side_facing_aptamers,poor_facing_aptamers,mean_up_score,mean_shift_from_original_nm,max_shift_from_original_nm,oriented_sparse_score,oriented_mean_contacts,oriented_p_at_least_1_contact,oriented_p_at_least_2_contacts,oriented_p_at_least_3_contacts
+broad_grid_24_lattice,broad_grid_24_orientation_optimized,24,24,0,0,1.0000,2.515,2.740,0.1750,0.4320,0.3432,0.0646,0.0197
+triple_ring_24_lattice,triple_ring_24_orientation_optimized,24,16,8,0,0.9167,2.409,3.777,0.1595,0.3919,0.3095,0.0654,0.0151
+broad_grid_20_lattice,broad_grid_20_orientation_optimized,20,12,8,0,0.9000,1.983,3.011,0.1544,0.3772,0.3008,0.0635,0.0121

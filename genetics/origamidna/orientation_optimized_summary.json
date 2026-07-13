@@ -1,0 +1,89 @@
+{
+  "model": "orientation-aware lattice remapper",
+  "plain_language_summary": [
+    "The first lattice map chose the nearest attachment site.",
+    "This optimizer chooses a nearby site that faces upward when possible.",
+    "The goal is to keep the broad layout shape while improving aptamer display direction."
+  ],
+  "settings": {
+    "maximum_shift_from_original_nm": 4.0,
+    "shift_penalty": 0.08,
+    "good_up_score_threshold": 0.75
+  },
+  "best_optimized_layout": {
+    "source_layout": "broad_grid_24_lattice",
+    "optimized_layout": "broad_grid_24_orientation_optimized",
+    "aptamer_count": "24",
+    "up_facing_aptamers": "24",
+    "side_facing_aptamers": "0",
+    "poor_facing_aptamers": "0",
+    "mean_up_score": "1.0000",
+    "mean_shift_from_original_nm": "2.515",
+    "max_shift_from_original_nm": "2.740",
+    "oriented_sparse_score": "0.1750",
+    "oriented_mean_contacts": "0.4320",
+    "oriented_p_at_least_1_contact": "0.3432",
+    "oriented_p_at_least_2_contacts": "0.0646",
+    "oriented_p_at_least_3_contacts": "0.0197"
+  },
+  "ranked_layouts": [
+    {
+      "source_layout": "broad_grid_24_lattice",
+      "optimized_layout": "broad_grid_24_orientation_optimized",
+      "aptamer_count": "24",
+      "up_facing_aptamers": "24",
+      "side_facing_aptamers": "0",
+      "poor_facing_aptamers": "0",
+      "mean_up_score": "1.0000",
+      "mean_shift_from_original_nm": "2.515",
+      "max_shift_from_original_nm": "2.740",
+      "oriented_sparse_score": "0.1750",
+      "oriented_mean_contacts": "0.4320",
+      "oriented_p_at_least_1_contact": "0.3432",
+      "oriented_p_at_least_2_contacts": "0.0646",
+      "oriented_p_at_least_3_contacts": "0.0197"
+    },
+    {
+      "source_layout": "triple_ring_24_lattice",
+      "optimized_layout": "triple_ring_24_orientation_optimized",
+      "aptamer_count": "24",
+      "up_facing_aptamers": "16",
+      "side_facing_aptamers": "8",
+      "poor_facing_aptamers": "0",
+      "mean_up_score": "0.9167",
+      "mean_shift_from_original_nm": "2.409",
+      "max_shift_from_original_nm": "3.777",
+      "oriented_sparse_score": "0.1595",
+      "oriented_mean_contacts": "0.3919",
+      "oriented_p_at_least_1_contact": "0.3095",
+      "oriented_p_at_least_2_contacts": "0.0654",
+      "oriented_p_at_least_3_contacts": "0.0151"
+    },
+    {
+      "source_layout": "broad_grid_20_lattice",
+      "optimized_layout": "broad_grid_20_orientation_optimized",
+      "aptamer_count": "20",
+      "up_facing_aptamers": "12",
+      "side_facing_aptamers": "8",
+      "poor_facing_aptamers": "0",
+      "mean_up_score": "0.9000",
+      "mean_shift_from_original_nm": "1.983",
+      "max_shift_from_original_nm": "3.011",
+      "oriented_sparse_score": "0.1544",
+      "oriented_mean_contacts": "0.3772",
+      "oriented_p_at_least_1_contact": "0.3008",
+      "oriented_p_at_least_2_contacts": "0.0635",
+      "oriented_p_at_least_3_contacts": "0.0121"
+    }
+  ],
+  "limitations": [
+    "This is still a simplified register/orientation model.",
+    "It does not replace caDNAno routing or full oxDNA validation.",
+    "The optimized sites should be checked against a real tile design before ordering strands."
+  ],
+  "outputs": {
+    "optimized_layout_coordinates": "orientation_optimized_mapped_layouts.csv",
+    "optimized_summary": "orientation_optimized_summary.csv",
+    "optimized_layout_plot": "orientation_optimized_layouts.png"
+  }
+}

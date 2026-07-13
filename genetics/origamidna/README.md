@@ -222,6 +222,103 @@ This searches wash strength, duration, cycle count, passivation, and target
 contact improvement. Wash strength is a relative scale until laboratory flow
 rates and bond lifetimes are measured.
 
+### Step 5.11: Check DNA-Origami Buildability
+
+```bash
+python3 score_origami_buildability.py
+```
+
+This asks whether a layout is practical as a DNA-origami pattern, not just
+whether it catches EVs in the model.
+
+Simple example: two patterns may both catch EVs well, but a pattern with
+aptamers spaced about 10 nm apart is easier to build and explain than a pattern
+with several aptamers only 5-6 nm apart.
+
+The current best practical lead is:
+
+```text
+Best practical layout: broad_grid_24
+```
+
+`broad_grid_24` keeps modeled useful capture above 90% while giving the
+aptamer anchors more comfortable spacing on the DNA-origami tile.
+
+### Step 5.12: Snap the Layout to an Origami Lattice
+
+```bash
+python3 map_layout_to_origami_lattice.py
+```
+
+This turns the best layouts from free x/y dots into simplified DNA-origami
+attachment sites.
+
+Simple example: instead of saying "put an aptamer at x = -27 nm, y = -15 nm,"
+the mapped design says "put this aptamer on helix row 4, base position 4."
+
+The current best mapped lead is:
+
+```text
+Best mapped layout: broad_grid_24_lattice
+```
+
+The average aptamer moved only about 1 nm during mapping. That means the
+`broad_grid_24` pattern was already close to realistic origami attachment
+positions.
+
+### Step 5.13: Score Aptamer Orientation
+
+```bash
+python3 score_lattice_orientation.py
+```
+
+This checks whether each mapped aptamer site probably points upward toward the
+EV or sideways/downward into a less useful direction.
+
+Simple example: two aptamers can sit at almost the same x/y position, but the
+one pointing upward is more useful than the one pointing sideways.
+
+### Step 5.14: Optimize the Orientation Register
+
+```bash
+python3 optimize_lattice_orientation.py
+```
+
+This moves each aptamer to a nearby lattice site when that small move makes the
+aptamer point upward.
+
+The current best orientation-aware lead is:
+
+```text
+Best orientation-optimized layout: broad_grid_24_orientation_optimized
+```
+
+This design keeps the broad-grid shape, moves aptamers by about 2.5 nm on
+average, and places all 24 aptamers in upward-facing sites under the simplified
+orientation model.
+
+### Step 5.15: Run the Simplified 3D Capture Screen
+
+```bash
+python3 simulate_3d_oriented_capture.py
+```
+
+This gives each aptamer a 3D base position and a 3D direction vector. It then
+models each EV as a 73 nm sphere with sparse CD133 receptors on the lower
+surface.
+
+Simple example: an aptamer only gets a strong contact if the receptor is close
+enough and inside the aptamer's 3D reach cone.
+
+The current best 3D lead is:
+
+```text
+Best 3D layout: broad_grid_24_orientation_optimized
+```
+
+This is still a coarse 3D model, not full molecular dynamics. It is useful for
+screening whether the layout survives a more realistic geometry check.
+
 ## 6. Optional Analyses
 
 Test large, aggressive aptamer nets:
@@ -254,8 +351,21 @@ unrealistic.
 | `advanced_capture_design_summary.csv` | Which layout and surface idea work best together? |
 | `inverse_design_requirements.csv` | What must improve to reach reliable 90% useful capture? |
 | `capture_wash_protocol_best.csv` | Best modeled wash protocol for each design |
+| `origami_buildability_scores.csv` | Which capture layout is also easiest to build on a DNA-origami tile? |
+| `origami_lattice_mapping_comparison.csv` | How much each layout changes after snapping to origami sites |
+| `origami_lattice_mapped_layouts.csv` | Helix/base attachment positions for the mapped layouts |
+| `lattice_orientation_summary.csv` | How much aptamer direction changes capture after lattice mapping |
+| `orientation_optimized_summary.csv` | Best nearby upward-facing lattice sites for each mapped design |
+| `capture_3d_oriented_scores.csv` | Simplified 3D capture scores for orientation-optimized layouts |
 | `advanced_capture_reliability.png` | Graph comparing advanced designs |
 | `capture_wash_protocol_comparison.png` | Graph comparing optimized wash protocols |
+| `origami_buildability_scores.png` | Graph comparing capture score against origami buildability |
+| `origami_buildability_layouts.png` | Diagram of the top origami-friendly aptamer layouts |
+| `origami_lattice_mapping.png` | Diagram comparing free layouts against lattice-snapped layouts |
+| `lattice_orientation_scores.png` | Graph showing the orientation penalty |
+| `orientation_optimized_layouts.png` | Diagram of the orientation-optimized aptamer sites |
+| `capture_3d_oriented_scores.png` | Graph of the simplified 3D capture screen |
+| `capture_3d_oriented_layouts.png` | Diagram of the 3D-oriented layout directions |
 | `Research_Report_2026-06-20_Annotated.md` | Research report with figure-placement notes |
 
 CSV means **comma-separated values**. It is a table that can be opened in

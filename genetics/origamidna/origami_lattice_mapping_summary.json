@@ -1,0 +1,101 @@
+{
+  "model": "simplified DNA-origami lattice mapper",
+  "plain_language_summary": [
+    "The old layout allowed aptamers to sit at any x/y coordinate.",
+    "The new mapped layout moves each aptamer to the nearest allowed helix/base site.",
+    "A small snap shift means the original pattern was already close to a realistic origami grid."
+  ],
+  "lattice_assumptions": {
+    "tile_width_nm": 90.0,
+    "tile_height_nm": 60.0,
+    "helix_spacing_nm": 2.5,
+    "attachment_repeat_nm": 3.57,
+    "edge_margin_nm": 5.0,
+    "site_count": 483
+  },
+  "best_mapped_layout": {
+    "layout": "broad_grid_24",
+    "mapped_layout": "broad_grid_24_lattice",
+    "aptamer_count": "24",
+    "mean_snap_shift_nm": "1.055",
+    "max_snap_shift_nm": "1.280",
+    "original_origami_buildability": "1.0000",
+    "mapped_origami_buildability": "1.0000",
+    "original_min_spacing_nm": "10.000",
+    "mapped_min_spacing_nm": "10.000",
+    "original_sparse_score": "0.1877",
+    "mapped_sparse_score": "0.1863",
+    "sparse_score_change": "-0.0014",
+    "mapped_mean_contacts": "0.4550",
+    "mapped_p_at_least_1_contact": "0.3621",
+    "mapped_p_at_least_2_contacts": "0.0797",
+    "mapped_p_at_least_3_contacts": "0.0117"
+  },
+  "ranked_mapped_layouts": [
+    {
+      "layout": "broad_grid_24",
+      "mapped_layout": "broad_grid_24_lattice",
+      "aptamer_count": "24",
+      "mean_snap_shift_nm": "1.055",
+      "max_snap_shift_nm": "1.280",
+      "original_origami_buildability": "1.0000",
+      "mapped_origami_buildability": "1.0000",
+      "original_min_spacing_nm": "10.000",
+      "mapped_min_spacing_nm": "10.000",
+      "original_sparse_score": "0.1877",
+      "mapped_sparse_score": "0.1863",
+      "sparse_score_change": "-0.0014",
+      "mapped_mean_contacts": "0.4550",
+      "mapped_p_at_least_1_contact": "0.3621",
+      "mapped_p_at_least_2_contacts": "0.0797",
+      "mapped_p_at_least_3_contacts": "0.0117"
+    },
+    {
+      "layout": "broad_grid_20",
+      "mapped_layout": "broad_grid_20_lattice",
+      "aptamer_count": "20",
+      "mean_snap_shift_nm": "1.247",
+      "max_snap_shift_nm": "1.990",
+      "original_origami_buildability": "1.0000",
+      "mapped_origami_buildability": "1.0000",
+      "original_min_spacing_nm": "9.333",
+      "mapped_min_spacing_nm": "10.000",
+      "original_sparse_score": "0.1728",
+      "mapped_sparse_score": "0.1737",
+      "sparse_score_change": "0.0009",
+      "mapped_mean_contacts": "0.4297",
+      "mapped_p_at_least_1_contact": "0.3299",
+      "mapped_p_at_least_2_contacts": "0.0805",
+      "mapped_p_at_least_3_contacts": "0.0163"
+    },
+    {
+      "layout": "triple_ring_24",
+      "mapped_layout": "triple_ring_24_lattice",
+      "aptamer_count": "24",
+      "mean_snap_shift_nm": "1.022",
+      "max_snap_shift_nm": "1.953",
+      "original_origami_buildability": "0.5478",
+      "mapped_origami_buildability": "0.7441",
+      "original_min_spacing_nm": "5.874",
+      "mapped_min_spacing_nm": "6.144",
+      "original_sparse_score": "0.1799",
+      "mapped_sparse_score": "0.1778",
+      "sparse_score_change": "-0.0021",
+      "mapped_mean_contacts": "0.4339",
+      "mapped_p_at_least_1_contact": "0.3450",
+      "mapped_p_at_least_2_contacts": "0.0760",
+      "mapped_p_at_least_3_contacts": "0.0128"
+    }
+  ],
+  "limitations": [
+    "This does not design staple sequences.",
+    "This does not validate folding with full oxDNA or caDNAno routing.",
+    "The lattice uses simplified helix/base spacing and should be replaced by a lab-specific origami design later."
+  ],
+  "outputs": {
+    "lattice_sites": "origami_lattice_sites.csv",
+    "mapped_layout_coordinates": "origami_lattice_mapped_layouts.csv",
+    "mapping_comparison": "origami_lattice_mapping_comparison.csv",
+    "mapping_plot": "origami_lattice_mapping.png"
+  }
+}

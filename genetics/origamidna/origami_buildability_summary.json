@@ -1,0 +1,110 @@
+{
+  "model": "DNA-origami buildability screen for EV capture layouts",
+  "plain_language_summary": [
+    "A high capture score means the simulated EV is likely to be caught.",
+    "A high origami buildability score means the aptamer anchors are spaced in a less crowded, more tile-friendly way.",
+    "The practical score combines both, with capture still weighted more strongly than buildability."
+  ],
+  "screening_assumptions": {
+    "tile_width_nm": 90.0,
+    "tile_height_nm": 60.0,
+    "hard_min_spacing_nm": 6.0,
+    "comfortable_spacing_nm": 9.0,
+    "comfortable_edge_margin_nm": 5.0,
+    "local_crowding_radius_nm": 12.0,
+    "max_comfortable_local_neighbors": 4,
+    "max_comfortable_aptamers": 24
+  },
+  "best_practical_layout": {
+    "layout": "broad_grid_24",
+    "best_formulation_or_protocol": "mixed_spacer_antifouling",
+    "capture_score_used": "0.9046",
+    "reliable_90_capture": "yes",
+    "aptamer_count": "24",
+    "min_spacing_nm": "10",
+    "median_nearest_spacing_nm": "10",
+    "hard_spacing_violations": "0",
+    "crowding_violations": "0",
+    "min_edge_margin_nm": "15",
+    "edge_violations": "0",
+    "max_local_neighbors": "4",
+    "spacing_score": "1",
+    "local_crowding_score": "1",
+    "edge_score": "1",
+    "aptamer_count_score": "1",
+    "origami_buildability_score": "1",
+    "origami_adjusted_practical_score": "0.9313"
+  },
+  "top_three": [
+    {
+      "layout": "broad_grid_24",
+      "best_formulation_or_protocol": "mixed_spacer_antifouling",
+      "capture_score_used": "0.9046",
+      "reliable_90_capture": "yes",
+      "aptamer_count": "24",
+      "min_spacing_nm": "10",
+      "median_nearest_spacing_nm": "10",
+      "hard_spacing_violations": "0",
+      "crowding_violations": "0",
+      "min_edge_margin_nm": "15",
+      "edge_violations": "0",
+      "max_local_neighbors": "4",
+      "spacing_score": "1",
+      "local_crowding_score": "1",
+      "edge_score": "1",
+      "aptamer_count_score": "1",
+      "origami_buildability_score": "1",
+      "origami_adjusted_practical_score": "0.9313"
+    },
+    {
+      "layout": "broad_grid_20",
+      "best_formulation_or_protocol": "rigid_spacer_PEG",
+      "capture_score_used": "0.9027",
+      "reliable_90_capture": "yes",
+      "aptamer_count": "20",
+      "min_spacing_nm": "9.3333",
+      "median_nearest_spacing_nm": "9.3333",
+      "hard_spacing_violations": "0",
+      "crowding_violations": "0",
+      "min_edge_margin_nm": "16",
+      "edge_violations": "0",
+      "max_local_neighbors": "2",
+      "spacing_score": "1",
+      "local_crowding_score": "1",
+      "edge_score": "1",
+      "aptamer_count_score": "1",
+      "origami_buildability_score": "1",
+      "origami_adjusted_practical_score": "0.9299"
+    },
+    {
+      "layout": "hybrid_24",
+      "best_formulation_or_protocol": "rigid_spacer_PEG",
+      "capture_score_used": "0.9006",
+      "reliable_90_capture": "yes",
+      "aptamer_count": "24",
+      "min_spacing_nm": "6.4031",
+      "median_nearest_spacing_nm": "10.7703",
+      "hard_spacing_violations": "0",
+      "crowding_violations": "8",
+      "min_edge_margin_nm": "15",
+      "edge_violations": "0",
+      "max_local_neighbors": "7",
+      "spacing_score": "1",
+      "local_crowding_score": "0.2500",
+      "edge_score": "1",
+      "aptamer_count_score": "1",
+      "origami_buildability_score": "0.8350",
+      "origami_adjusted_practical_score": "0.8822"
+    }
+  ],
+  "limitations": [
+    "This is a coarse buildability screen, not a caDNAno or oxDNA full-tile folding simulation.",
+    "It does not assign exact staple sequences or check scaffold routing.",
+    "The spacing thresholds should be replaced by lab-specific attachment chemistry constraints when available."
+  ],
+  "outputs": {
+    "ranked_scores": "origami_buildability_scores.csv",
+    "score_plot": "origami_buildability_scores.png",
+    "top_layout_plot": "origami_buildability_layouts.png"
+  }
+}

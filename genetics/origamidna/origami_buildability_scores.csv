@@ -1,0 +1,9 @@
+layout,best_formulation_or_protocol,capture_score_used,reliable_90_capture,aptamer_count,min_spacing_nm,median_nearest_spacing_nm,hard_spacing_violations,crowding_violations,min_edge_margin_nm,edge_violations,max_local_neighbors,spacing_score,local_crowding_score,edge_score,aptamer_count_score,origami_buildability_score,origami_adjusted_practical_score
+broad_grid_24,mixed_spacer_antifouling,0.9046,yes,24,10,10,0,0,15,0,4,1,1,1,1,1,0.9313
+broad_grid_20,rigid_spacer_PEG,0.9027,yes,20,9.3333,9.3333,0,0,16,0,2,1,1,1,1,1,0.9299
+hybrid_24,rigid_spacer_PEG,0.9006,yes,24,6.4031,10.7703,0,8,15,0,7,1,0.2500,1,1,0.8350,0.8822
+sunflower_24,mixed_spacer_antifouling,0.8685,no,24,7.5292,8.5954,0,17,7.7572,0,5,0.8651,0.7500,1,1,0.8884,0.8741
+sunflower_20,mixed_spacer_antifouling,0.8666,no,20,7.4745,8.5947,0,14,9.4047,0,5,0.8649,0.7500,1,1,0.8883,0.8727
+triple_ring_24,mixed_spacer_antifouling,0.9005,yes,24,5.8736,8.1588,6,14,8.8150,0,5,0.0543,0.7500,1,1,0.5478,0.8017
+rescue_24,mixed_spacer_antifouling,0.8715,no,24,3.3962,7.6485,8,14,11,0,4,0.0175,1,1,1,0.5874,0.7919
+four_patch_24,mixed_spacer_antifouling,0.8628,no,24,4.2720,4.2720,24,24,14.1859,0,5,0,0.7500,1,1,0.5250,0.7682

@@ -1,0 +1,93 @@
+{
+  "model": "simplified aptamer orientation screen for lattice-mapped DNA origami",
+  "plain_language_summary": [
+    "The lattice mapper decides where aptamers attach.",
+    "This orientation screen estimates whether those attachment sites point upward toward the EV.",
+    "Poor-facing aptamers keep existing as anchors, but the model reduces their effective reach and binding probability."
+  ],
+  "orientation_assumptions": {
+    "register_count": 3,
+    "helix_stagger_radians": 1.0471975511965976,
+    "good_up_score_threshold": 0.75,
+    "weak_up_score_threshold": 0.45,
+    "reach_multiplier_range": "0.55 to 1.00",
+    "binding_multiplier_range": "0.35 to 1.00"
+  },
+  "best_oriented_layout": {
+    "layout": "triple_ring_24_lattice",
+    "aptamer_count": "24",
+    "up_facing_aptamers": "8",
+    "side_facing_aptamers": "2",
+    "poor_facing_aptamers": "14",
+    "mean_up_score": "0.4583",
+    "min_up_score": "0.0000",
+    "unoriented_sparse_score": "0.1724",
+    "oriented_sparse_score": "0.0823",
+    "orientation_score_change": "-0.0901",
+    "oriented_mean_contacts": "0.1958",
+    "oriented_p_at_least_1_contact": "0.1727",
+    "oriented_p_at_least_2_contacts": "0.0204",
+    "oriented_p_at_least_3_contacts": "0.0026"
+  },
+  "ranked_layouts": [
+    {
+      "layout": "triple_ring_24_lattice",
+      "aptamer_count": "24",
+      "up_facing_aptamers": "8",
+      "side_facing_aptamers": "2",
+      "poor_facing_aptamers": "14",
+      "mean_up_score": "0.4583",
+      "min_up_score": "0.0000",
+      "unoriented_sparse_score": "0.1724",
+      "oriented_sparse_score": "0.0823",
+      "orientation_score_change": "-0.0901",
+      "oriented_mean_contacts": "0.1958",
+      "oriented_p_at_least_1_contact": "0.1727",
+      "oriented_p_at_least_2_contacts": "0.0204",
+      "oriented_p_at_least_3_contacts": "0.0026"
+    },
+    {
+      "layout": "broad_grid_20_lattice",
+      "aptamer_count": "20",
+      "up_facing_aptamers": "8",
+      "side_facing_aptamers": "0",
+      "poor_facing_aptamers": "12",
+      "mean_up_score": "0.5500",
+      "min_up_score": "0.2500",
+      "unoriented_sparse_score": "0.1795",
+      "oriented_sparse_score": "0.0808",
+      "orientation_score_change": "-0.0987",
+      "oriented_mean_contacts": "0.1954",
+      "oriented_p_at_least_1_contact": "0.1625",
+      "oriented_p_at_least_2_contacts": "0.0272",
+      "oriented_p_at_least_3_contacts": "0.0057"
+    },
+    {
+      "layout": "broad_grid_24_lattice",
+      "aptamer_count": "24",
+      "up_facing_aptamers": "0",
+      "side_facing_aptamers": "0",
+      "poor_facing_aptamers": "24",
+      "mean_up_score": "0.2500",
+      "min_up_score": "0.2500",
+      "unoriented_sparse_score": "0.1687",
+      "oriented_sparse_score": "0.0274",
+      "orientation_score_change": "-0.1412",
+      "oriented_mean_contacts": "0.0639",
+      "oriented_p_at_least_1_contact": "0.0612",
+      "oriented_p_at_least_2_contacts": "0.0026",
+      "oriented_p_at_least_3_contacts": "0.0000"
+    }
+  ],
+  "limitations": [
+    "This is not a full nucleotide-level orientation simulation.",
+    "It assumes a simplified repeating orientation pattern across helix rows and attachment registers.",
+    "A real caDNAno/oxDNA model is needed to confirm exact aptamer display direction."
+  ],
+  "outputs": {
+    "anchor_scores": "lattice_orientation_anchor_scores.csv",
+    "layout_summary": "lattice_orientation_summary.csv",
+    "summary_plot": "lattice_orientation_scores.png",
+    "layout_plot": "lattice_orientation_layouts.png"
+  }
+}

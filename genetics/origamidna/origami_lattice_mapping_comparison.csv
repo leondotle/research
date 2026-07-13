@@ -1,0 +1,4 @@
+layout,mapped_layout,aptamer_count,mean_snap_shift_nm,max_snap_shift_nm,original_origami_buildability,mapped_origami_buildability,original_min_spacing_nm,mapped_min_spacing_nm,original_sparse_score,mapped_sparse_score,sparse_score_change,mapped_mean_contacts,mapped_p_at_least_1_contact,mapped_p_at_least_2_contacts,mapped_p_at_least_3_contacts
+broad_grid_24,broad_grid_24_lattice,24,1.055,1.280,1.0000,1.0000,10.000,10.000,0.1877,0.1863,-0.0014,0.4550,0.3621,0.0797,0.0117
+broad_grid_20,broad_grid_20_lattice,20,1.247,1.990,1.0000,1.0000,9.333,10.000,0.1728,0.1737,0.0009,0.4297,0.3299,0.0805,0.0163
+triple_ring_24,triple_ring_24_lattice,24,1.022,1.953,0.5478,0.7441,5.874,6.144,0.1799,0.1778,-0.0021,0.4339,0.3450,0.0760,0.0128
